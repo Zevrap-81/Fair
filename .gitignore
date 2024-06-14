@@ -1,0 +1,21 @@
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore tmp directory
+tmp/
+
+# Ignore specific file
+secret.txt
+
+# Ignore .DS_Store files (macOS)
+.DS_Store
+
+# Ignore environment files
+.env
+
+.pyc 
+
+__pycache__

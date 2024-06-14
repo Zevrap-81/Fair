@@ -1,0 +1,4349 @@
+,job_label,skills,file_label
+0,Data Science,"[{'skill': 'Data Structure', 'score': 80}, {'skill': 'C', 'score': 80}, {'skill': 'Data Analysis', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'Core Java', 'score': 80}, {'skill': 'Database Management', 'score': 80}]",none
+1,Data Science,"[{'skill': 'Python', 'score': 80}, {'skill': 'Statsmodels', 'score': 80}, {'skill': 'AWS', 'score': 20}, {'skill': 'Machine learning', 'score': 80}, {'skill': 'Sklearn', 'score': 80}, {'skill': 'Scipy', 'score': 20}, {'skill': 'Keras', 'score': 20}, {'skill': 'ARIMA', 'score': 80}, {'skill': 'SARIMAX', 'score': 80}, {'skill': 'Holt-winter', 'score': 80}, {'skill': 'Prophet', 'score': 80}]",none
+2,Data Science,"[{'skill': 'Machine Learning', 'score': 100}, {'skill': 'Deep Learning', 'score': 100}, {'skill': 'NLP', 'score': 100}, {'skill': 'Python', 'score': 100}, {'skill': 'SQL', 'score': 80}, {'skill': 'Web Scraping', 'score': 80}, {'skill': 'Text Classification', 'score': 80}, {'skill': 'Recurrent Neural Networks', 'score': 80}, {'skill': 'Pandas', 'score': 80}, {'skill': 'Scikit-learn', 'score': 80}, {'skill': 'Tensor Flow', 'score': 80}, {'skill': 'Numpy', 'score': 80}, {'skill': 'Matplotlib', 'score': 80}, {'skill': 'NLTK', 'score': 80}, {'skill': 'Sentiment Analysis', 'score': 80}, {'skill': 'Web Crawling', 'score': 80}, {'skill': 'Selenium Web Driver', 'score': 80}]",none
+3,Data Science,"[{'skill': 'Numpy', 'score': 80}, {'skill': 'Machine Learning', 'score': 100}, {'skill': 'Tensorflow', 'score': 80}, {'skill': 'Scikit', 'score': 80}, {'skill': 'Python', 'score': 100}, {'skill': 'GCP', 'score': 80}, {'skill': 'Pandas', 'score': 80}, {'skill': 'Neural Network', 'score': 80}, {'skill': 'SQL', 'score': 80}, {'skill': 'Oracle', 'score': 80}, {'skill': 'C++', 'score': 80}, {'skill': 'Java', 'score': 80}, {'skill': 'Google Cloud', 'score': 80}, {'skill': 'Linux', 'score': 80}, {'skill': 'Ubuntu', 'score': 80}]",none
+4,Data Science,"[{'skill': 'Data Structure', 'score': 80}, {'skill': 'C', 'score': 80}, {'skill': 'Data Analysis', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'Core Java', 'score': 80}, {'skill': 'Database Management', 'score': 80}]",none
+5,Data Science,"[{'skill': 'C Basics', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'MATLAB', 'score': 80}, {'skill': 'Data Science', 'score': 80}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'HTML', 'score': 20}, {'skill': 'Microsoft Word', 'score': 20}, {'skill': 'Microsoft Excel', 'score': 20}, {'skill': 'Microsoft Powerpoint', 'score': 20}]",none
+6,Data Science,"[{'skill': 'Machine Learning', 'score': 100}, {'skill': 'Deep Learning', 'score': 100}, {'skill': 'NLP', 'score': 100}, {'skill': 'Python', 'score': 100}, {'skill': 'SQL', 'score': 100}, {'skill': 'Web Scraping', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}]",none
+7,Data Science,"[{'skill': 'Data Analysis', 'score': 80}, {'skill': 'Excel', 'score': 80}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'Sql', 'score': 80}]",none
+8,Data Science,"[{'skill': 'Python', 'score': 100}, {'skill': 'Javascript', 'score': 80}, {'skill': 'JQuery', 'score': 80}, {'skill': 'Sql', 'score': 80}, {'skill': 'Machine learning', 'score': 100}, {'skill': 'Database Visualizations', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}, {'skill': 'Angular 6', 'score': 20}, {'skill': 'Python Flask', 'score': 80}, {'skill': 'Git', 'score': 20}, {'skill': 'Docker', 'score': 20}, {'skill': 'Open CV', 'score': 20}]",none
+9,Data Science,"[{'skill': 'Data and Quantitative Analysis', 'score': 80}, {'skill': 'Decision Analytics', 'score': 80}, {'skill': 'Predictive Modeling', 'score': 80}, {'skill': 'Data-Driven Personalization', 'score': 80}, {'skill': 'KPI Dashboards', 'score': 80}, {'skill': 'Big Data Queries and Interpretation', 'score': 80}, {'skill': 'Data Mining and Visualization Tools', 'score': 80}, {'skill': 'Machine Learning Algorithms', 'score': 80}, {'skill': 'Business Intelligence (BI)', 'score': 80}, {'skill': 'Data Analysis', 'score': 80}, {'skill': 'Algorithms', 'score': 80}, {'skill': 'BI', 'score': 80}, {'skill': 'Machine Learning', 'score': 100}, {'skill': 'Visualization', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'Tableau', 'score': 80}, {'skill': 'Spark', 'score': 80}, {'skill': 'Web scraping', 'score': 20}, {'skill': 'Hive', 'score': 20}, {'skill': 'PySpark', 'score': 80}, {'skill': 'Microsoft Face API', 'score': 20}, {'skill': 'Open CV', 'score': 20}, {'skill': 'R', 'score': 20}, {'skill': 'NLP', 'score': 20}, {'skill': 'Apache Spark', 'score': 20}]",none
+10,Data Science,"[{'skill': 'Python', 'score': 100}, {'skill': 'Tableau', 'score': 100}, {'skill': 'Data Visualization', 'score': 100}, {'skill': 'R Studio', 'score': 20}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'Statistics', 'score': 20}]",none
+11,Data Science,"[{'skill': 'Python', 'score': 80}, {'skill': 'Machine Learning', 'score': 100}, {'skill': 'Deep Learning', 'score': 100}, {'skill': 'Data Science', 'score': 100}, {'skill': 'Numpy', 'score': 100}, {'skill': 'Tensorflow', 'score': 100}, {'skill': 'Scikit', 'score': 20}, {'skill': 'GCP', 'score': 20}, {'skill': 'Pandas', 'score': 100}, {'skill': 'Neural Network', 'score': 80}, {'skill': 'Algorithms', 'score': 80}, {'skill': 'NLP', 'score': 100}, {'skill': 'SQL', 'score': 80}, {'skill': 'Oracle', 'score': 20}, {'skill': 'Linux', 'score': 80}, {'skill': 'Ubuntu', 'score': 20}, {'skill': 'Windows', 'score': 20}, {'skill': 'C++', 'score': 20}, {'skill': 'Java', 'score': 20}, {'skill': 'Google Cloud', 'score': 80}]",none
+12,Data Science,"[{'skill': 'C Basics', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'MATLAB', 'score': 80}, {'skill': 'Data Science', 'score': 80}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'HTML', 'score': 0}, {'skill': 'Microsoft Word', 'score': 20}, {'skill': 'Microsoft Excel', 'score': 20}, {'skill': 'Microsoft Powerpoint', 'score': 20}]",none
+13,Data Science,"[{'skill': 'Python', 'score': 80}, {'skill': 'JavaScript/JQuery', 'score': 80}, {'skill': 'Html', 'score': 80}, {'skill': 'Css', 'score': 80}, {'skill': 'Sql', 'score': 80}, {'skill': 'Machine learning', 'score': 80}, {'skill': 'Natural language processing', 'score': 80}, {'skill': 'ElasticSearch', 'score': 80}, {'skill': 'Kibana', 'score': 80}, {'skill': 'Plotly', 'score': 80}, {'skill': 'Matplotlib', 'score': 80}, {'skill': 'Tableau', 'score': 80}, {'skill': 'Word embedding', 'score': 80}, {'skill': 'Sentiment analysis', 'score': 80}, {'skill': 'Scikit-learn', 'score': 80}, {'skill': 'Flask', 'score': 80}, {'skill': 'Docker', 'score': 80}, {'skill': 'Git', 'score': 80}, {'skill': 'OpenCV', 'score': 80}]",none
+14,Data Science,"[{'skill': 'C Basics', 'score': 80}, {'skill': 'Data Science', 'score': 100}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'MATLAB', 'score': 80}, {'skill': 'Microsoft Word', 'score': 80}, {'skill': 'Microsoft Excel', 'score': 80}, {'skill': 'Microsoft Powerpoint', 'score': 80}]",none
+15,Data Science,"[{'skill': 'Data Analysis', 'score': 80}, {'skill': 'Excel', 'score': 80}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'Matlab', 'score': 80}, {'skill': 'Sql', 'score': 80}, {'skill': 'Electrical Engineering', 'score': 80}]",none
+16,Data Science,"[{'skill': 'Python', 'score': 100}, {'skill': 'Sql', 'score': 100}, {'skill': 'Java', 'score': 80}, {'skill': 'JavaScript/JQuery', 'score': 100}, {'skill': 'Machine learning', 'score': 80}, {'skill': 'Regression', 'score': 80}, {'skill': 'SVM', 'score': 80}, {'skill': 'Naïve Bayes', 'score': 80}, {'skill': 'KNN', 'score': 80}, {'skill': 'Random Forest', 'score': 80}, {'skill': 'Decision Trees', 'score': 80}, {'skill': 'Boosting techniques', 'score': 80}, {'skill': 'Cluster Analysis', 'score': 80}, {'skill': 'Word Embedding', 'score': 80}, {'skill': 'Sentiment Analysis', 'score': 80}, {'skill': 'Natural Language processing', 'score': 80}, {'skill': 'Dimensionality reduction', 'score': 80}, {'skill': 'Topic Modelling (LDA, NMF)', 'score': 80}, {'skill': 'PCA & Neural Nets', 'score': 80}, {'skill': 'Mysql', 'score': 100}, {'skill': 'SqlServer', 'score': 80}, {'skill': 'Plotly', 'score': 80}, {'skill': 'kibana', 'score': 80}, {'skill': 'matplotlib', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}, {'skill': 'Python Flask', 'score': 80}, {'skill': 'Git', 'score': 20}, {'skill': 'Docker', 'score': 20}, {'skill': 'Open CV', 'score': 20}, {'skill': 'Regular Expression', 'score': 20}, {'skill': 'Angular 6', 'score': 20}, {'skill': 'Logstash', 'score': 20}, {'skill': 'Kafka', 'score': 20}, {'skill': 'Pandas', 'score': 20}, {'skill': 'Numpy', 'score': 20}, {'skill': 'Scipy', 'score': 20}, {'skill': 'scikit-learn', 'score': 60}]",none
+17,Data Science,"[{'skill': 'Data and Quantitative Analysis', 'score': 100}, {'skill': 'Decision Analytics', 'score': 80}, {'skill': 'Predictive Modeling', 'score': 80}, {'skill': 'Data-Driven Personalization', 'score': 80}, {'skill': 'KPI Dashboards', 'score': 80}, {'skill': 'Big Data Queries and Interpretation', 'score': 80}, {'skill': 'Data Mining', 'score': 80}, {'skill': 'Data Visualization Tools', 'score': 80}, {'skill': 'Machine Learning Algorithms', 'score': 100}, {'skill': 'Business Intelligence (BI)', 'score': 80}, {'skill': 'Algorithms', 'score': 20}, {'skill': 'BI', 'score': 20}, {'skill': 'Business Intelligence', 'score': 20}, {'skill': 'Python', 'score': 100}, {'skill': 'Machine Learning', 'score': 80}, {'skill': 'Visualization', 'score': 80}, {'skill': 'Spark', 'score': 80}, {'skill': 'Tableau', 'score': 80}, {'skill': 'Data Analysis', 'score': 80}, {'skill': 'Selenium', 'score': 80}, {'skill': 'Hadoop', 'score': 80}, {'skill': 'PySpark', 'score': 100}, {'skill': 'QlikSense', 'score': 80}, {'skill': 'Microsoft Face API', 'score': 80}, {'skill': 'Open CV', 'score': 80}, {'skill': 'R', 'score': 80}, {'skill': 'NLP', 'score': 80}, {'skill': 'Sentiment Analysis', 'score': 80}, {'skill': 'Apache Spark', 'score': 100}, {'skill': 'IBM Bluemix', 'score': 100}, {'skill': 'IBM Watson', 'score': 80}]",none
+18,Data Science,"[{'skill': 'Data Structure', 'score': 80}, {'skill': 'C', 'score': 80}, {'skill': 'Data Analysis', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'Core Java', 'score': 80}, {'skill': 'Database Management', 'score': 80}]",none
+19,Data Science,"[{'skill': 'C Basics', 'score': 80}, {'skill': 'Python', 'score': 80}, {'skill': 'MATLAB', 'score': 80}, {'skill': 'Data Science', 'score': 100}, {'skill': 'Machine Learning', 'score': 100}, {'skill': 'HTML', 'score': 0}, {'skill': 'Microsoft Word', 'score': 20}, {'skill': 'Microsoft Excel', 'score': 20}, {'skill': 'Microsoft Powerpoint', 'score': 20}]",none
+20,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'CSS3', 'score': 80}]",none
+21,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'jQuery', 'score': 80}, {'skill': 'Corel Draw', 'score': 20}, {'skill': 'Photoshop', 'score': 80}, {'skill': 'Illustrator', 'score': 20}, {'skill': 'C++', 'score': 20}, {'skill': 'MySQL', 'score': 20}, {'skill': 'Sublime Text', 'score': 20}, {'skill': 'Notepad', 'score': 20}, {'skill': 'Windows OS', 'score': 20}, {'skill': 'Web Development', 'score': 80}, {'skill': 'Graphics Design', 'score': 80}]",none
+22,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'Javascript', 'score': 80}, {'skill': 'CSS3', 'score': 20}, {'skill': 'Angular 4', 'score': 20}]",none
+23,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'PHP', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'Jquery', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Notepad++', 'score': 20}, {'skill': 'Sublime Text2', 'score': 20}, {'skill': 'Codeigniter', 'score': 80}, {'skill': 'Apache tomcat', 'score': 20}, {'skill': 'Xampp Control Panel', 'score': 20}]",none
+24,Web Designing,"[{'skill': 'HTML5', 'score': 100}, {'skill': 'CSS3', 'score': 100}, {'skill': 'Bootstrap', 'score': 100}, {'skill': 'JavaScript', 'score': 100}, {'skill': 'jQuery', 'score': 100}, {'skill': 'Corel Draw', 'score': 80}, {'skill': 'Adobe Photoshop', 'score': 80}, {'skill': 'Adobe Illustrator', 'score': 80}, {'skill': 'C++', 'score': 20}, {'skill': 'C', 'score': 20}, {'skill': 'JAVA', 'score': 20}]",none
+25,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Angular 4', 'score': 80}, {'skill': 'UI/UX Design', 'score': 80}, {'skill': 'Web Development', 'score': 80}, {'skill': 'Client Interaction', 'score': 80}, {'skill': 'Project Management', 'score': 80}]",none
+26,Web Designing,"[{'skill': 'Photoshop', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'Javascript', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Angular 4', 'score': 80}, {'skill': 'Web Design', 'score': 80}]",none
+27,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Angular JS', 'score': 20}]",none
+28,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'jQuery', 'score': 80}, {'skill': 'Corel Draw', 'score': 20}, {'skill': 'Adobe Photoshop', 'score': 80}, {'skill': 'Adobe Illustrator', 'score': 20}, {'skill': 'C++', 'score': 20}]",none
+29,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'PHP', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'Jquery', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Codeigniter', 'score': 80}, {'skill': 'Notepad++', 'score': 20}, {'skill': 'Sublime Text2', 'score': 20}, {'skill': 'Apache tomcat', 'score': 20}, {'skill': 'Xampp Control Panel', 'score': 20}]",none
+30,Web Designing,"[{'skill': 'Web design', 'score': 80}, {'skill': 'Php', 'score': 80}]",none
+31,Web Designing,"[{'skill': 'HTML5', 'score': 100}, {'skill': 'CSS3', 'score': 100}, {'skill': 'Bootstrap', 'score': 100}, {'skill': 'JavaScript', 'score': 100}, {'skill': 'jQuery', 'score': 100}, {'skill': 'Corel Draw', 'score': 80}, {'skill': 'Adobe Photoshop', 'score': 80}, {'skill': 'Adobe Illustrator', 'score': 80}, {'skill': 'C++', 'score': 20}, {'skill': 'Sublime Text', 'score': 80}, {'skill': 'Notepad', 'score': 20}, {'skill': 'MySQL', 'score': 20}]",none
+32,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'Javascript', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Angular 4', 'score': 80}, {'skill': 'Brackets', 'score': 80}, {'skill': 'Visual Studio', 'score': 80}]",none
+33,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'PHP', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'Jquery', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Notepad++', 'score': 20}, {'skill': 'Sublime Text2', 'score': 20}, {'skill': 'Codeigniter', 'score': 80}, {'skill': 'Apache tomcat', 'score': 20}, {'skill': 'Xampp Control Panel', 'score': 20}]",none
+34,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Angular 4', 'score': 80}]",none
+35,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'jQuery', 'score': 80}, {'skill': 'Corel Draw', 'score': 80}, {'skill': 'Adobe Photoshop', 'score': 80}, {'skill': 'Adobe Illustrator', 'score': 80}, {'skill': 'Sublime Text', 'score': 80}, {'skill': 'Notepad', 'score': 80}, {'skill': 'C++', 'score': 20}]",none
+36,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'PHP', 'score': 100}, {'skill': 'Ajax', 'score': 80}, {'skill': 'Jquery', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'MySQL', 'score': 80}]",none
+37,Web Designing,"[{'skill': 'Photoshop', 'score': 100}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Angular 4', 'score': 80}]",none
+38,Web Designing,"[{'skill': 'HTML5', 'score': 100}, {'skill': 'CSS3', 'score': 100}, {'skill': 'Bootstrap', 'score': 100}, {'skill': 'JavaScript', 'score': 100}, {'skill': 'jQuery', 'score': 100}, {'skill': 'Adobe Photoshop', 'score': 80}, {'skill': 'Corel Draw', 'score': 80}, {'skill': 'Adobe Illustrator', 'score': 80}]",none
+39,Web Designing,"[{'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'PHP', 'score': 100}, {'skill': 'Ajax', 'score': 80}, {'skill': 'Jquery', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Notepad++', 'score': 20}, {'skill': 'Sublime Text2', 'score': 20}, {'skill': 'Codeigniter', 'score': 80}, {'skill': 'Apache tomcat', 'score': 20}, {'skill': 'Xampp Control Panel', 'score': 20}]",none
+40,Mechanical Engineer,"[{'skill': 'Microsoft Office', 'score': 80}, {'skill': 'AutoCAD', 'score': 80}, {'skill': '3D Modeling software', 'score': 80}, {'skill': 'Proposal/Estimation Engineering', 'score': 100}, {'skill': 'Procurement & Purchase', 'score': 80}, {'skill': 'Vendor Development', 'score': 80}, {'skill': 'Supply Chain Management', 'score': 80}, {'skill': 'Cost Estimation', 'score': 80}, {'skill': 'Project Execution', 'score': 80}, {'skill': 'Product Development', 'score': 80}, {'skill': 'Technical Support', 'score': 80}, {'skill': 'Quality Assurance', 'score': 80}, {'skill': 'Engineering Test Reports', 'score': 80}, {'skill': 'Mechanical Design', 'score': 80}]",none
+41,Mechanical Engineer,"[{'skill': 'Knowledge of software / computer (Auto CAD, MSCIT, CNC Programming)', 'score': 80}, {'skill': 'Industrial Experience', 'score': 80}, {'skill': 'Mechanical Engineering', 'score': 80}, {'skill': 'AUTO CAD', 'score': 80}, {'skill': 'CNC', 'score': 80}, {'skill': 'Quick Learner', 'score': 80}, {'skill': 'Positive thinking and self-confidence', 'score': 80}, {'skill': 'Honest, discipline and hardworking', 'score': 80}, {'skill': 'Pneumatic Punching Machine Design and Fabrication', 'score': 80}, {'skill': 'Paddle operated Sugarcane Juicer machine', 'score': 80}, {'skill': 'English, Hindi, Marathi', 'score': 20}]",none
+42,Mechanical Engineer,"[{'skill': 'Application Engineering', 'score': 80}, {'skill': 'Field Service', 'score': 80}, {'skill': 'Sizing and Selection of Valves and Actuators', 'score': 80}, {'skill': 'Quotations Management', 'score': 80}, {'skill': 'Purchasing and Supply Chain Management', 'score': 80}, {'skill': 'Vendor Development', 'score': 80}, {'skill': 'Project Execution', 'score': 80}, {'skill': 'Proposal Engineering', 'score': 80}, {'skill': 'Mechanical Design', 'score': 80}, {'skill': 'Cost Estimation', 'score': 80}, {'skill': 'Internal Auditing', 'score': 80}, {'skill': 'Documentation Management', 'score': 80}, {'skill': 'Raw Material Inspection', 'score': 80}, {'skill': 'Prototype Manufacturing (3D Modeling)', 'score': 80}, {'skill': '3D Modeling Software', 'score': 80}, {'skill': 'AutoCAD', 'score': 80}, {'skill': 'Material Handling Equipment Design', 'score': 80}, {'skill': 'Microsoft Office (Word, Excel)', 'score': 80}]",none
+43,Mechanical Engineer,"[{'skill': 'Microsoft Office - Word ,Excel,Auto cad,Micro station J ERP 3d Modeling software', 'score': 80}, {'skill': 'Technical knowledge in Mechanical Engineering', 'score': 80}, {'skill': 'Project management and coordination', 'score': 80}, {'skill': 'Vendor development and management', 'score': 80}, {'skill': 'Supply chain management', 'score': 80}, {'skill': 'Proposal and estimation engineering', 'score': 80}, {'skill': 'Fabrication design and manufacturing', 'score': 80}, {'skill': 'AutoCAD', 'score': 80}, {'skill': 'Estimation of Pneumatic Automation Products & Projects', 'score': 80}]",none
+44,Mechanical Engineer,"[{'skill': 'Leadership', 'score': 80}, {'skill': 'Event Management', 'score': 80}, {'skill': 'Project Management', 'score': 80}, {'skill': 'Engineering', 'score': 20}]",none
+45,Mechanical Engineer,"[{'skill': 'Microsoft Office (Word, Excel)', 'score': 60}, {'skill': 'Auto CAD', 'score': 80}, {'skill': 'Material Selection', 'score': 80}, {'skill': 'Project Management', 'score': 80}, {'skill': 'Product Selection', 'score': 80}, {'skill': 'Costing', 'score': 80}, {'skill': 'Quotations', 'score': 80}, {'skill': 'Procurement', 'score': 80}, {'skill': 'Supply Chain Management', 'score': 80}, {'skill': 'Vendor Development', 'score': 80}, {'skill': 'Project Execution', 'score': 80}, {'skill': 'Negotiation', 'score': 80}, {'skill': 'Technical Writing', 'score': 60}, {'skill': 'Problem Solving', 'score': 80}, {'skill': 'Quality Assurance', 'score': 80}]",none
+46,Mechanical Engineer,"[{'skill': 'Mechanical Engineering', 'score': 80}, {'skill': 'Project Management', 'score': 80}, {'skill': 'Leadership', 'score': 80}, {'skill': 'Event Management', 'score': 80}, {'skill': 'Team Management', 'score': 80}]",none
+47,Mechanical Engineer,"[{'skill': 'Autocad', 'score': 80}, {'skill': 'Solidworks', 'score': 80}, {'skill': 'Catia', 'score': 80}]",none
+48,Mechanical Engineer,"[{'skill': 'Microsoft Office', 'score': 80}, {'skill': 'Auto Cad', 'score': 80}, {'skill': '3D Modeling', 'score': 80}, {'skill': 'Pre Sales', 'score': 80}, {'skill': 'Inside Sales', 'score': 80}, {'skill': 'Field Service', 'score': 80}, {'skill': 'Product Selection', 'score': 80}, {'skill': 'Materials of Construction', 'score': 80}, {'skill': 'Project Quotations', 'score': 80}, {'skill': 'Costing', 'score': 80}, {'skill': 'Estimation Engineering', 'score': 80}, {'skill': 'Vendor Development', 'score': 80}, {'skill': 'Supply Chain Management', 'score': 80}, {'skill': 'Negotiation', 'score': 80}, {'skill': 'Proposal Engineering', 'score': 80}, {'skill': 'Project Execution', 'score': 80}, {'skill': 'Pneumatic/Fabrication Projects', 'score': 80}, {'skill': 'Mechanical Assemblies', 'score': 80}, {'skill': 'Electrical or Mechanical Product Specifications', 'score': 80}, {'skill': 'Standard Operating Procedures', 'score': 80}, {'skill': 'Maintenance Manuals', 'score': 80}]",none
+49,Mechanical Engineer,"[{'skill': 'Microsoft office', 'score': 80}, {'skill': 'Autocad', 'score': 80}, {'skill': 'Catia', 'score': 80}, {'skill': 'Solidworks', 'score': 20}, {'skill': 'ProE', 'score': 20}]",none
+50,Mechanical Engineer,"[{'skill': 'Autocad', 'score': 80}, {'skill': 'Solidworks', 'score': 80}, {'skill': 'Catia', 'score': 80}, {'skill': 'Mechanical Engineering', 'score': 100}, {'skill': 'Design Engineering', 'score': 80}, {'skill': 'Project Management', 'score': 20}]",none
+51,Mechanical Engineer,"[{'skill': 'Knowledge of AutoCAD', 'score': 80}, {'skill': 'MSCIT', 'score': 20}, {'skill': 'CNC Programming (Fanuc Series)', 'score': 80}, {'skill': 'Strong Dedication towards work', 'score': 80}, {'skill': 'Quick Learner', 'score': 80}]",none
+52,Mechanical Engineer,"[{'skill': 'Microsoft Office -Word ,Excel,Auto cad,Micro station J ERP 3d Modeling software', 'score': 80}, {'skill': 'Pneumatic Automation Products, valves, linear & rotary actuator', 'score': 100}, {'skill': 'Product selection and materials of construction technical recommendations', 'score': 80}, {'skill': 'Contract Management & Tenders', 'score': 80}, {'skill': 'Vendor Management & Supply Chain', 'score': 100}, {'skill': 'Project execution', 'score': 100}, {'skill': 'Proposal Engineering', 'score': 100}, {'skill': 'Estimation Engineering & Products Costing', 'score': 100}, {'skill': 'Research and evaluate potential vendors and suppliers', 'score': 80}, {'skill': 'Project Management', 'score': 100}]",none
+53,Mechanical Engineer,"[{'skill': 'Knowledge of software / computer: Auto CAD', 'score': 80}, {'skill': 'MSCIT', 'score': 80}, {'skill': 'CNC Programming (Fanuc Series)', 'score': 80}, {'skill': 'Strong Dedication towards work', 'score': 80}, {'skill': 'Quick Learner', 'score': 80}, {'skill': 'Positive thinking and self-confidence', 'score': 80}, {'skill': 'Honest, discipline and hardworking', 'score': 80}, {'skill': 'AUTO CAD', 'score': 20}, {'skill': 'AUTOMOTIVE', 'score': 20}, {'skill': 'AUTOMOTIVE CNC', 'score': 20}, {'skill': 'CAD', 'score': 20}, {'skill': 'CNC', 'score': 20}]",none
+54,Mechanical Engineer,"[{'skill': 'AutoCAD', 'score': 80}, {'skill': 'Solidworks', 'score': 80}, {'skill': 'Catia', 'score': 80}, {'skill': 'Mechanical Engineering', 'score': 80}, {'skill': 'Design Engineering', 'score': 80}, {'skill': 'Project Management', 'score': 20}]",none
+55,Mechanical Engineer,"[{'skill': 'Knowledge of software / computer: Auto CAD', 'score': 80}, {'skill': 'MSCIT', 'score': 20}, {'skill': 'CNC Programming (Fanuc Series)', 'score': 80}, {'skill': 'Industrial Training', 'score': 80}, {'skill': 'AUTO CAD', 'score': 20}, {'skill': 'AUTOMOTIVE', 'score': 20}, {'skill': 'AUTOMOTIVE CNC', 'score': 20}, {'skill': 'CAD', 'score': 20}, {'skill': 'CNC', 'score': 20}, {'skill': 'Machine Assembly Disassembly', 'score': 20}, {'skill': 'Design and fabrication of machines', 'score': 80}, {'skill': 'Paddle operated machinery', 'score': 20}]",none
+56,Mechanical Engineer,"[{'skill': 'Leadership', 'score': 80}, {'skill': 'Event Management', 'score': 80}]",none
+57,Mechanical Engineer,"[{'skill': 'Microsoft Office', 'score': 80}, {'skill': 'AutoCAD', 'score': 80}, {'skill': '3D Modeling Software', 'score': 80}, {'skill': 'Mechanical Engineering', 'score': 100}, {'skill': 'Project Management', 'score': 80}, {'skill': 'Negotiation', 'score': 80}, {'skill': 'Supply Chain Management', 'score': 80}, {'skill': 'Technical Writing', 'score': 80}, {'skill': 'Cost Estimation', 'score': 80}, {'skill': 'Procurement', 'score': 80}]",none
+58,Mechanical Engineer,"[{'skill': 'Mechanical Engineering', 'score': 100}, {'skill': 'AutoCAD', 'score': 80}, {'skill': 'Microsoft Office (Word, Excel)', 'score': 80}, {'skill': '3D Modeling Software', 'score': 80}, {'skill': 'Project Management', 'score': 80}, {'skill': 'Marketing', 'score': 20}, {'skill': 'Pneumatic Automation Products', 'score': 80}, {'skill': 'Valves and Actuators Sizing', 'score': 80}, {'skill': 'Procurement', 'score': 80}, {'skill': 'Vendor Development', 'score': 80}]",none
+59,Mechanical Engineer,"[{'skill': 'Autocad', 'score': 80}, {'skill': 'Catia V5', 'score': 100}, {'skill': 'MS office', 'score': 80}, {'skill': 'ProE', 'score': 0}]",none
+60,Java Developer,"[{'skill': 'SpringMVC', 'score': 80}, {'skill': 'Hibernate', 'score': 0}, {'skill': 'JDBC', 'score': 0}, {'skill': 'Java', 'score': 80}, {'skill': 'J2EE', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'MsSQL', 'score': 80}, {'skill': 'Javascript', 'score': 80}, {'skill': 'Ionic 3', 'score': 80}, {'skill': 'Angular JS', 'score': 80}]",none
+61,Java Developer,"[{'skill': 'C++', 'score': 20}, {'skill': 'c', 'score': 20}, {'skill': 'JAVA', 'score': 80}, {'skill': 'DS', 'score': 20}, {'skill': 'Jdbc', 'score': 100}, {'skill': 'Hibernate', 'score': 20}, {'skill': 'Java J2Ee', 'score': 20}, {'skill': 'Javascript', 'score': 20}, {'skill': 'JQuery', 'score': 20}, {'skill': 'Ajax', 'score': 20}]",none
+62,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'Servlet', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Visual Basic 6.0', 'score': 20}, {'skill': 'UML', 'score': 20}, {'skill': 'Packet Tracer', 'score': 20}, {'skill': 'Core Java', 'score': 20}, {'skill': 'Advance Java', 'score': 20}, {'skill': 'SQL', 'score': 20}]",none
+63,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'SQL', 'score': 80}, {'skill': 'PL/SQL', 'score': 80}, {'skill': 'C', 'score': 80}, {'skill': 'C++', 'score': 80}, {'skill': 'BootStrap', 'score': 20}, {'skill': 'JSP', 'score': 20}, {'skill': 'Ext JS', 'score': 20}, {'skill': 'Eclipse', 'score': 80}, {'skill': 'Toad', 'score': 80}, {'skill': 'SoapBox', 'score': 80}, {'skill': 'Postman', 'score': 80}, {'skill': 'Oracle', 'score': 80}, {'skill': 'MS-SQL', 'score': 80}, {'skill': 'MS-Access', 'score': 20}, {'skill': 'MS-Excel', 'score': 20}]",none
+64,Java Developer,"[{'skill': 'c++', 'score': 80}, {'skill': 'c', 'score': 80}, {'skill': 'JAVA', 'score': 80}, {'skill': 'DS', 'score': 80}, {'skill': 'Jdbc', 'score': 100}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'Java J2Ee', 'score': 80}, {'skill': 'Javascript', 'score': 80}, {'skill': 'JQuery', 'score': 80}, {'skill': 'Ajax', 'score': 80}]",none
+65,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'J2EE', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'PostgresSql Database', 'score': 80}, {'skill': 'Functional Testing', 'score': 80}, {'skill': 'Manual Testing', 'score': 80}, {'skill': 'Angular', 'score': 80}, {'skill': 'C++', 'score': 20}, {'skill': 'LINUX', 'score': 20}, {'skill': 'Windows', 'score': 20}]",none
+66,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'Android', 'score': 80}, {'skill': 'Object Oriented Programming (OOT/C++)', 'score': 80}, {'skill': 'Database', 'score': 80}, {'skill': 'Core Java', 'score': 80}, {'skill': 'SQL', 'score': 80}, {'skill': 'Advance Java', 'score': 80}]",none
+67,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'J2EE', 'score': 80}, {'skill': 'Servlets', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}, {'skill': 'JQUERY', 'score': 80}, {'skill': 'AJAX', 'score': 80}, {'skill': 'JSON', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'Maven', 'score': 80}, {'skill': 'TomCat', 'score': 80}, {'skill': 'MongoDB', 'score': 80}, {'skill': 'MySql', 'score': 80}, {'skill': 'Eclipse', 'score': 80}, {'skill': 'Software Development Life Cycle', 'score': 80}, {'skill': 'MVC architecture', 'score': 80}, {'skill': 'JDBC', 'score': 80}]",none
+68,Java Developer,"[{'skill': 'Team leading', 'score': 20}, {'skill': 'Self-motivated', 'score': 20}, {'skill': 'Hard working', 'score': 20}, {'skill': 'Core Java', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'Servlet', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'Struts', 'score': 80}, {'skill': 'Javascript', 'score': 80}]",none
+69,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'jQuery', 'score': 80}, {'skill': 'Eclipse', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'Servlet', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}, {'skill': 'Java Script', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'OOPS', 'score': 80}, {'skill': 'Core java', 'score': 80}, {'skill': 'Advance java', 'score': 80}]",none
+70,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'J2EE', 'score': 80}, {'skill': 'Servlets', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}, {'skill': 'JQUERY', 'score': 80}, {'skill': 'AJAX', 'score': 80}, {'skill': 'JSON', 'score': 80}, {'skill': 'MVC Architecture', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'MySql', 'score': 80}, {'skill': 'TomCat', 'score': 80}, {'skill': 'MongoDB', 'score': 80}, {'skill': 'JDBC', 'score': 80}, {'skill': 'jQuery', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'Eclipse', 'score': 80}]",none
+71,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'J2EE', 'score': 80}, {'skill': 'Servlets', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'JSON', 'score': 80}, {'skill': 'jQuery', 'score': 80}, {'skill': 'AJAX', 'score': 80}, {'skill': 'MVC architecture', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'MySql', 'score': 80}, {'skill': 'Eclipse', 'score': 80}, {'skill': 'Maven', 'score': 80}, {'skill': 'Tomcat', 'score': 80}, {'skill': 'MongoDB', 'score': 80}, {'skill': 'HTML', 'score': 80}, {'skill': 'CSS', 'score': 80}, {'skill': 'DB Connectivity', 'score': 80}, {'skill': 'JDBC', 'score': 80}]",none
+72,Java Developer,"[{'skill': 'Java/J2EE', 'score': 100}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Shell script', 'score': 80}, {'skill': 'SVN', 'score': 20}, {'skill': 'Jenkins', 'score': 80}, {'skill': 'Weblogic12c', 'score': 80}, {'skill': 'Android Studio', 'score': 20}, {'skill': 'Eclipse', 'score': 20}, {'skill': 'Oracle', 'score': 20}, {'skill': 'Xcode', 'score': 20}, {'skill': 'Win 10', 'score': 20}, {'skill': 'Mac (High Sierra)', 'score': 20}, {'skill': 'EJB', 'score': 80}]",none
+73,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'Javascript', 'score': 80}]",none
+74,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'Databases', 'score': 80}, {'skill': 'Hibernate', 'score': 100}, {'skill': 'JSP', 'score': 80}, {'skill': 'Servlet', 'score': 80}]",none
+75,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'J2EE', 'score': 100}, {'skill': 'Spring', 'score': 100}, {'skill': 'Hibernate', 'score': 100}, {'skill': 'Angular', 'score': 80}, {'skill': 'PostgresSql', 'score': 80}, {'skill': 'Manual Testing', 'score': 80}, {'skill': 'C++', 'score': 20}, {'skill': 'DATABASES', 'score': 20}, {'skill': 'LINUX', 'score': 20}]",none
+76,Java Developer,"[{'skill': 'Java', 'score': 80}, {'skill': 'J2EE', 'score': 100}, {'skill': 'Spring Framework', 'score': 80}, {'skill': 'Hibernate Framework', 'score': 80}, {'skill': 'PostgresSql Database', 'score': 80}, {'skill': 'Functional Testing', 'score': 80}, {'skill': 'Manual Testing', 'score': 80}, {'skill': 'Linux', 'score': 20}]",none
+77,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'Operating System (Windows, Linux)', 'score': 80}, {'skill': 'Databases (Oracle, MySQL, Derby)', 'score': 80}, {'skill': 'IDE: Eclipse (Oxygen)', 'score': 80}, {'skill': 'Tools: SonarQube, Putty', 'score': 80}, {'skill': 'Requirements gathering and design development meetings', 'score': 80}, {'skill': 'Code review and debugging', 'score': 80}, {'skill': 'Meeting deadlines and production work orders', 'score': 80}, {'skill': 'Collaboration with other developers to identify and alleviate software bugs', 'score': 80}, {'skill': 'Maintenance and development of bug fixes and patch sets for existing applications', 'score': 80}]",none
+78,Java Developer,"[{'skill': 'Java (Servlet, JSP, Spring Boot)', 'score': 100}, {'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'JQuery', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'AngularJs', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Eclipse', 'score': 80}, {'skill': 'Spring', 'score': 80}, {'skill': 'Spring Boot', 'score': 80}]",none
+79,Java Developer,"[{'skill': 'Java', 'score': 100}, {'skill': 'Servlet', 'score': 80}, {'skill': 'JSP', 'score': 80}, {'skill': 'Spring Boot', 'score': 80}, {'skill': 'HTML5', 'score': 80}, {'skill': 'CSS3', 'score': 80}, {'skill': 'Bootstrap', 'score': 80}, {'skill': 'JavaScript', 'score': 80}, {'skill': 'JQuery', 'score': 80}, {'skill': 'Ajax', 'score': 80}, {'skill': 'AngularJs', 'score': 80}, {'skill': 'MySQL', 'score': 80}, {'skill': 'Eclipse', 'score': 20}, {'skill': 'Net beans', 'score': 20}, {'skill': 'Sublime Text', 'score': 20}, {'skill': 'MVC Architecture', 'score': 80}, {'skill': 'Service based Programming', 'score': 80}, {'skill': 'Hibernate', 'score': 80}, {'skill': 'KendoUI', 'score': 80}]",none
+80,SAP Developer,"[{'skill': 'ETL', 'score': 80}, {'skill': 'Data Warehousing', 'score': 80}, {'skill': 'SQL/PL SQL', 'score': 80}, {'skill': 'Basic Core Java', 'score': 20}, {'skill': 'Basic Python', 'score': 20}, {'skill': 'SAP BODS', 'score': 100}, {'skill': 'SAP BO', 'score': 80}, {'skill': 'Oracle 11g', 'score': 80}, {'skill': 'Sybase', 'score': 80}, {'skill': 'Apache', 'score': 20}, {'skill': 'Tomcat', 'score': 20}, {'skill': 'SCD1', 'score': 20}, {'skill': 'SCD2', 'score': 20}]",none
+81,SAP Developer,"[{'skill': 'Quick Learner', 'score': 80}, {'skill': 'VBA programming for automation', 'score': 100}, {'skill': 'Confidence and Positive Attitude', 'score': 80}, {'skill': 'Strong analytical thinking, documentation and design skills', 'score': 80}, {'skill': 'Adaptable to new environment, with ability to get along with people', 'score': 80}]",none
+82,SAP Developer,"[{'skill': 'SAP ABAP', 'score': 80}, {'skill': 'ALE/IDOC/EDI', 'score': 80}, {'skill': 'oDATA/Fiori', 'score': 80}, {'skill': 'S4HANA', 'score': 80}, {'skill': 'SAP Techno Functional', 'score': 80}, {'skill': 'SAP SD', 'score': 80}, {'skill': 'NetWeaver Gateway', 'score': 80}, {'skill': 'IS-Retail/APO/IS-Auto/EWM', 'score': 80}, {'skill': 'SAP S/4HANA Extensibility', 'score': 80}, {'skill': 'Embedded Analytics', 'score': 80}, {'skill': 'SAP Netweaver Gateway (Fiori)', 'score': 80}, {'skill': 'SAP BI', 'score': 20}, {'skill': 'SAP PI', 'score': 20}]",none
+83,SAP Developer,"[{'skill': 'SAP Business Intelligence', 'score': 100}, {'skill': 'SAP BO 4.2', 'score': 100}, {'skill': 'Design Studio', 'score': 80}, {'skill': 'IDT', 'score': 100}, {'skill': 'Webi', 'score': 100}, {'skill': 'SQL', 'score': 80}, {'skill': 'Business Objects', 'score': 100}, {'skill': 'HANA', 'score': 100}, {'skill': 'Bex Queries', 'score': 80}]",none
+84,SAP Developer,"[{'skill': 'SAP ABAP', 'score': 80}, {'skill': 'ALE/IDOC/EDID', 'score': 80}, {'skill': 'oData', 'score': 80}, {'skill': 'Fiori', 'score': 80}, {'skill': 'S4HANA', 'score': 80}, {'skill': 'EWM', 'score': 80}, {'skill': 'APO', 'score': 80}, {'skill': 'Retail', 'score': 80}, {'skill': 'SAP Netweaver Gateway', 'score': 80}, {'skill': 'Techno Functional', 'score': 60}, {'skill': 'SAP SD', 'score': 60}, {'skill': 'S/4HANA Extensibility', 'score': 60}, {'skill': 'Embedded Analytics', 'score': 60}, {'skill': 'SAP Certified', 'score': 20}, {'skill': 'ITIL', 'score': 20}, {'skill': 'PRINCE2', 'score': 20}, {'skill': 'SAP S/4HANA new feature', 'score': 20}, {'skill': 'SAP project Full-Lifecycle implementations', 'score': 20}, {'skill': 'Direct client exposure', 'score': 20}, {'skill': 'Expertise in SAP modules', 'score': 20}]",none
+85,SAP Developer,"[{'skill': 'SAP ABAP', 'score': 100}, {'skill': 'ALE/IDOC/EDIC', 'score': 80}, {'skill': 'oData', 'score': 80}, {'skill': 'S/4HANA', 'score': 80}, {'skill': 'EWM', 'score': 80}, {'skill': 'APO', 'score': 80}, {'skill': 'Fiori', 'score': 80}, {'skill': 'NetWeaver Gateway', 'score': 80}, {'skill': 'SAP Techno-functional', 'score': 80}, {'skill': 'SAP SD', 'score': 80}, {'skill': 'ITIL', 'score': 80}, {'skill': 'PRINCE2 practitioner', 'score': 80}, {'skill': 'SAP modules like MM, FI, CO, SD, PS, PP, CS, PM, QM and HR', 'score': 80}, {'skill': 'SAP PI', 'score': 80}, {'skill': 'SAP BI', 'score': 80}, {'skill': 'Vistex', 'score': 80}, {'skill': 'Project management', 'score': 80}, {'skill': 'Quality processes', 'score': 80}, {'skill': 'Pre-sales activities', 'score': 80}, {'skill': 'Business system analysis', 'score': 80}, {'skill': 'Documentation processes', 'score': 80}, {'skill': 'Customer-oriented attitude', 'score': 80}, {'skill': 'Onsite-offshore support model', 'score': 80}, {'skill': 'Team leadership abilities', 'score': 80}, {'skill': 'Communication skills', 'score': 80}, {'skill': 'Leading technical team', 'score': 80}, {'skill': 'Unicode conversion', 'score': 80}, {'skill': 'Training end users', 'score': 80}]",none
+86,SAP Developer,"[{'skill': 'Quick Learner', 'score': 80}, {'skill': 'Groomed skills with Microsoft Excel', 'score': 80}, {'skill': 'VBA programming for automation', 'score': 80}, {'skill': 'Confidence and Positive Attitude', 'score': 80}, {'skill': 'Willingness to learn & work in team', 'score': 80}, {'skill': 'Strong analytical thinking, documentation and design skills', 'score': 80}, {'skill': 'Adaptable to new environment, with ability to get along with people', 'score': 80}]",none
+87,SAP Developer,"[{'skill': 'SAP HANA', 'score': 80}, {'skill': 'SAP BO', 'score': 80}, {'skill': 'HANA Information Models Calculation', 'score': 80}, {'skill': 'SQL', 'score': 20}, {'skill': 'HPALM', 'score': 20}, {'skill': 'Remedy', 'score': 20}, {'skill': 'Power BI', 'score': 20}, {'skill': 'SAP ECC 6.0', 'score': 20}, {'skill': 'SharePoint', 'score': 20}, {'skill': 'WEBI', 'score': 20}]",none
+88,SAP Developer,"{
+    ""results"": [
+        {
+            ""skill"": ""SAP BO 4.2"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""CMC"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""HANA"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""SQL"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Design Studio"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""IDT"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Webi"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""UDT"",
+            ""score"": 80
+        }
+    ]
+}",none
+89,SAP Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""ABAP Developer"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""SAP EXPOSURE"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Writing new reports and modification for existing reports"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Worked on smartforms"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Standard debugging for issues"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Creating custom tables, data elements, structures"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Modified SAP Script as per the requirement specified"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Modified Invoice Smart Form"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""For unit testing created contracts, orders, and invoices and tested individually"",
+      ""score"": 80
+    }
+  ]
+}",none
+90,SAP Developer,"{
+   ""skills"": [
+     {""skill"": ""SAP Business Intelligence"", ""score"": 100},
+     {""skill"": ""SAP BO 4.2"", ""score"": 100},
+     {""skill"": ""Business Objects"", ""score"": 100},
+     {""skill"": ""Design Studio"", ""score"": 100},
+     {""skill"": ""IDT"", ""score"": 100},
+     {""skill"": ""CMC activities"", ""score"": 100},
+     {""skill"": ""HANA"", ""score"": 100},
+     {""skill"": ""BW"", ""score"": 100},
+     {""skill"": ""Bex Queries"", ""score"": 100},
+     {""skill"": ""SQL"", ""score"": 100},
+     {""skill"": ""Backend DB"", ""score"": 100},
+     {""skill"": ""Teradata DB"", ""score"": 80},
+     {""skill"": ""Query builder"", ""score"": 80},
+     {""skill"": ""HPSM ticketing tool"", ""score"": 80},
+     {""skill"": ""SAP HANA Developer"", ""score"": 100},
+     {""skill"": ""SAP BO Developer"", ""score"": 100}
+   ]
+}",none
+91,SAP Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""HANA"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""SAP BO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Business Objects"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Webi"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""IDT"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CMC"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Design Studio"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Bex Queries"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Dashboard"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Teradata DB"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Query builder"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Promotion management"",
+      ""score"": 80
+    }
+  ]
+}",none
+92,SAP Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""SAP HANA"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""SAP BO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HANA Information Models"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Power BI"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SAP ECC 6.0"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Remedy"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""WEBI"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""SharePoint"",
+      ""score"": 20
+    }
+  ]
+}",none
+93,SAP Developer,"{
+	""skills"": [{
+			""skill"": ""ETL"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Data Warehousing"",
+			""score"": 80
+		},
+		{
+			""skill"": ""SQL/PL SQL"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Basic Core Java"",
+			""score"": 20
+		},
+		{
+			""skill"": ""Basic Python"",
+			""score"": 20
+		},
+		{
+			""skill"": ""SAP BODS"",
+			""score"": 100
+		},
+		{
+			""skill"": ""SAP BO"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Oracle 11g"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Sybase"",
+			""score"": 80
+		}
+	]
+}",none
+94,SAP Developer,"{
+	""skills"": [
+		{""skill"": ""SAP HANA"", ""score"": 100},
+		{""skill"": ""SAP BO"", ""score"": 80},
+		{""skill"": ""SQL"", ""score"": 80},
+		{""skill"": ""Remedy"", ""score"": 20},
+		{""skill"": ""WEBI"", ""score"": 20},
+		{""skill"": ""Power BI"", ""score"": 20}
+	]
+}",none
+95,SAP Developer,"{
+	""skills"": [
+		{""skill"": ""ETL"", ""score"": 80},
+		{""skill"": ""Data Warehousing"", ""score"": 80},
+		{""skill"": ""SQL/PL SQL"", ""score"": 80},
+		{""skill"": ""Basic Core Java"", ""score"": 20},
+		{""skill"": ""Basic Python"", ""score"": 20},
+		{""skill"": ""SAP BODS"", ""score"": 100},
+		{""skill"": ""SAP BO"", ""score"": 80},
+		{""skill"": ""Oracle 11g"", ""score"": 80},
+		{""skill"": ""Sybase"", ""score"": 80}
+	]
+}",none
+96,SAP Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""SAP ABAP"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""ALE/IDOC/EDC"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""oData"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Fiori"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""S4HANA"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""EWM"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""APO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Retail"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SAP Techno Functional"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SD"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""NetWeaver Gateway"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""S/4HANA new features Extensibility, Embedded Analytics"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""ITIL 2011 Foundation"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""PRINCE2 practitioner"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""SAP BI"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Pre-sales activities"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Quality processes"",
+      ""score"": 80
+    }
+  ]
+}",none
+97,SAP Developer,"{
+  ""skills"": [
+    {""skill"": ""ABAP Developer"", ""score"": 100},
+    {""skill"": ""SAP EXPOSURE"", ""score"": 80},
+    {""skill"": ""Writing new reports"", ""score"": 80},
+    {""skill"": ""Modification for existing reports"", ""score"": 80},
+    {""skill"": ""Worked on smartforms"", ""score"": 80},
+    {""skill"": ""Standard debugging for issues"", ""score"": 80},
+    {""skill"": ""Unit testing"", ""score"": 80},
+    {""skill"": ""SAP Script modification"", ""score"": 80},
+    {""skill"": ""Invoice Smart Form modification"", ""score"": 80},
+    {""skill"": ""Create custom tables, data elements, structures"", ""score"": 80}
+  ]
+}",none
+98,SAP Developer,"{
+   ""skills"":[
+      {
+         ""skill"":""ETL"",
+         ""score"":100
+      },
+      {
+         ""skill"":""Data Warehousing"",
+         ""score"":100
+      },
+      {
+         ""skill"":""SQL/PL SQL"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Basic Core Java"",
+         ""score"":20
+      },
+      {
+         ""skill"":""Basic Python"",
+         ""score"":20
+      },
+      {
+         ""skill"":""SAP BODS"",
+         ""score"":100
+      },
+      {
+         ""skill"":""SAP BO"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Oracle 11g"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Sybase"",
+         ""score"":20
+      },
+      {
+         ""skill"":""SAP R3"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Data Center"",
+         ""score"":20
+      },
+      {
+         ""skill"":""SAP BO Mobile"",
+         ""score"":20
+      },
+      {
+         ""skill"":""BO Java SDK"",
+         ""score"":20
+      },
+      {
+         ""skill"":""wdeploy"",
+         ""score"":20
+      },
+      {
+         ""skill"":""Web Intelligence"",
+         ""score"":20
+      }
+   ]
+}",none
+99,SAP Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Quick Learner"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Groomed skills with Microsoft Excel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""VBA programming for automation"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Confidence and Positive Attitude"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Strong analytical thinking, documentation and design skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Adaptable to new environment, with ability to get along with people"",
+      ""score"": 80
+    }
+  ]
+}",none
+100,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Microsoft Office and Excel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""PowerPoint"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Nuclear, Biological, Chemical Defense and Damage Control including Firefighting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Leadership"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Advance Fire Fighting including Industrial Safety"",
+      ""score"": 100
+    }
+  ]
+}",none
+101,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Troubleshooting and Maintenance of Electrical Equipment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical and Mechanical Maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Handling HT Vacuum & SF6 Circuit Breaker"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance of STP and WTP Plant"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Basic knowledge of PLC/SCADA Operation"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Monitoring and Correcting Power Factor"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Operation, Preventive Maintenance, Day to Day Breakdown Maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical Safety"",
+      ""score"": 80
+    }
+  ]
+}",none
+102,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Microsft office and excell"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""power point"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Fire fighting"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Industrial Safety"",
+      ""score"": 100
+    }
+  ]
+}",none
+103,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""AutoCAD"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""EPLAN"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SAP-ERP"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Project Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical Design Engineering"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Sales and Marketing"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""English Fluency"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""International Standards Knowledge (ISO, ATEX, NFPA, IEC, NEC)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Operation & Maintenance of Electrical Drives and Switchyard"",
+      ""score"": 20
+    }
+  ]
+}",none
+104,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Microsoft office and excel, power point"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Nuclear biological Chemical Defence and Damage Control including Fire fighting"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Leadership"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Advance Fire Fighting including Industrial Safety"",
+      ""score"": 100
+    }
+  ]
+}",none
+105,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Troubleshooting and Maintenance of Electrical Equipment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical and Mechanical Maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Handling HT Vacuum & SF6 Circuit Breaker, Transformer Up to 5000 KVA"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Basic knowledge of PLC/SCADA Operation"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Motor Testing Both HT & LT Up to 450 KW"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Monitoring and Controlling the 110V Control Panel and Relays Panel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical Safety"",
+      ""score"": 80
+    }
+  ]
+}",none
+106,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Troubleshooting and Maintenance of Electrical Equipment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical and Mechanical Maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Handling HT Vacuum & SF6 Circuit Breaker, Transformer Up to 5000 KVA"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Basic knowledge of PLC/SCADA Operation"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Motor Testing Both HT & LT Up to 450 KW"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Monitoring and Controlling the 110V Control Panel and Relays Panel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance of MCC and PCC Panel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical Safety"",
+      ""score"": 80
+    }
+  ]
+}",none
+107,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Problem solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Coordinating"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analyzing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Learning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Organizing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Time management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""People management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Problem solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Coordination"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Learning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Organizing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Stress management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Managing multiple tasks"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""People management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical engineering"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Problem solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Coordination"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Learning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Organizing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Time management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical engineering"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Automation engineering"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Technical documentation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Cost estimating"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Vendor communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Power distribution"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Panel installation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Commissioning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""PLC programming"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Field instrument installation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance and troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Mechanical maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance planning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Power system equipment management"",
+      ""score"": 80
+    }
+  ]
+}",none
+108,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""AutoCAD"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""EPLAN"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SAP-ERP"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""Multi-Tasking"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Project Engineering"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal Skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""English Fluency"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""ISO Standards"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""ATEX Standards"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""NFPA Standards"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""IEC Standards"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""NEC Standards"",
+      ""score"": 80
+    }
+  ]
+}",none
+109,Electrical Engineering,"{
+  ""skills"": [
+    {""skill"": ""Multi-Tasking"", ""score"": 80},
+    {""skill"": ""Project Management"", ""score"": 80},
+    {""skill"": ""AutoCAD"", ""score"": 100},
+    {""skill"": ""EPLAN"", ""score"": 100},
+    {""skill"": ""Enterprise Resource Planning (ERP)"", ""score"": 80},
+    {""skill"": ""Electrical Engineering Design"", ""score"": 80},
+    {""skill"": ""International Standards and Rules Knowledge"", ""score"": 80},
+    {""skill"": ""Fluent in English"", ""score"": 80},
+    {""skill"": ""Interpersonal Skills"", ""score"": 80}
+  ]
+}",none
+110,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Maintenance of Electrical Equipment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical and Mechanical Maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Handling HT Vacuum & SF6 Circuit Breaker"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance of STP and WTP Plant"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Basic knowledge of PLC/SCADA Operation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Trouble shooting of Switchgear and Control Panel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Motor Testing Both HT & LT Up to 450 KW"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Monitoring and Correcting Power Factor"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Service and Maintenance of Up to 55 KW Submersible Pump"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance of MCC and PCC Panel"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Operational Maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical Safety Knowledge"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Familiarity with Safety Equipment and Tools"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Lockout, Tag out Procedure"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Proper Usage of Protective Equipment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Work Permit Line Clearance"",
+      ""score"": 80
+    }
+  ]
+}",none
+111,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Electrical Machine"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical wiring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solar power Plant"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Distribution Substation"",
+      ""score"": 80
+    }
+  ]
+}",none
+112,Electrical Engineering,"{
+  ""skills"": [
+    {""skill"": ""Microsft Office"", ""score"": 80},
+    {""skill"": ""Excell"", ""score"": 80},
+    {""skill"": ""Power Point"", ""score"": 80},
+    {""skill"": ""Fire fighting"", ""score"": 100},
+    {""skill"": ""Industrial Safety"", ""score"": 80}
+  ]
+}",none
+113,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""People management skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Change management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Problem solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Coordination"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Learning skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Organizing skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Stress management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Time management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical engineering"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Problem solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Learning skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Organizing skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Stress management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Time management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Travel willingness"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Process engineering"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Technical documentation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Estimation of projects"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Motor control"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Vendor communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical distribution"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Panel installation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Commissioning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""PLC programming"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Instrumentation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Engineering services"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance and operation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Mechanical maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Testing and commissioning"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Power plant maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Root cause analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Budgeting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Cost control"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Overhauling"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Transformer maintenance"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Protection systems"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintenance systems"",
+      ""score"": 80
+    }
+  ]
+}",none
+114,Electrical Engineering,"{
+	""skills"": [
+		{""skill"": ""People management skills"", ""score"": 80},
+		{""skill"": ""Problem solving"", ""score"": 80},
+		{""skill"": ""Coordination"", ""score"": 80},
+		{""skill"": ""Analysis"", ""score"": 80},
+		{""skill"": ""Communication"", ""score"": 80},
+		{""skill"": ""Interpersonal skills"", ""score"": 80},
+		{""skill"": ""Learning skills"", ""score"": 80},
+		{""skill"": ""Organizing skills"", ""score"": 80},
+		{""skill"": ""Stress management"", ""score"": 80},
+		{""skill"": ""Time management"", ""score"": 80},
+		{""skill"": ""Multitasking"", ""score"": 80},
+		{""skill"": ""Project management"", ""score"": 80},
+		{""skill"": ""Travel"", ""score"": 20},
+		{""skill"": ""Electrical engineering"", ""score"": 100},
+		{""skill"": ""Problem solving"", ""score"": 80},
+		{""skill"": ""Coordination"", ""score"": 80},
+		{""skill"": ""Analysis"", ""score"": 80},
+		{""skill"": ""Communication"", ""score"": 80},
+		{""skill"": ""Interpersonal skills"", ""score"": 80},
+		{""skill"": ""Learning skills"", ""score"": 80},
+		{""skill"": ""Organizing skills"", ""score"": 80},
+		{""skill"": ""Stress management"", ""score"": 80},
+		{""skill"": ""Time management"", ""score"": 80},
+		{""skill"": ""Multitasking"", ""score"": 80},
+		{""skill"": ""Project management"", ""score"": 80},
+		{""skill"": ""Engineering design"", ""score"": 100},
+		{""skill"": ""Technical specifications"", ""score"": 80},
+		{""skill"": ""Process automation"", ""score"": 80},
+		{""skill"": ""Estimation"", ""score"": 80},
+		{""skill"": ""Vendor communication"", ""score"": 80},
+		{""skill"": ""Power distribution"", ""score"": 80},
+		{""skill"": ""Commissioning"", ""score"": 80},
+		{""skill"": ""Troubleshooting"", ""score"": 80},
+		{""skill"": ""PLC programming"", ""score"": 80},
+		{""skill"": ""Field instrument calibration"", ""score"": 80},
+		{""skill"": ""Engineering services"", ""score"": 80},
+		{""skill"": ""Maintenance & Operation"", ""score"": 80},
+		{""skill"": ""Supervising commissioning activities"", ""score"": 80},
+		{""skill"": ""Mechanical maintenance"", ""score"": 80},
+		{""skill"": ""Asst. Electrical Engineer"", ""score"": 80},
+		{""skill"": ""Testing and Commissioning"", ""score"": 80},
+		{""skill"": ""Predictive maintenance"", ""score"": 80},
+		{""skill"": ""Root cause analysis"", ""score"": 80},
+		{""skill"": ""Overhauling and maintenance"", ""score"": 80},
+		{""skill"": ""Power & Distribution Transformer"", ""score"": 80},
+		{""skill"": ""Monitoring plans/schedules"", ""score"": 80},
+		{""skill"": ""Power monitoring"", ""score"": 80}
+	]
+}",none
+115,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Electrical Machine"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical wiring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solar power Plant"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Distribution Substation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Transmission and Distribution Line Installation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Basic Computer"",
+      ""score"": 20
+    }
+  ]
+}",none
+116,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Project management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Problem-solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Communication"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Interpersonal skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Time management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""People management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Coordination"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analysis"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Organizational skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Problem-solving"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical engineering"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Automation engineering"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Troubleshooting"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Commissioning"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Maintenance"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Power distribution"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Engineering services"",
+      ""score"": 100
+    }
+  ]
+}",none
+117,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Electrical wiring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solar power Plant"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Distribution Substation"",
+      ""score"": 80
+    }
+  ]
+}",none
+118,Electrical Engineering,"{
+  ""skills"": [
+    {""skill"": ""AutoCAD"", ""score"": 100},
+    {""skill"": ""EPLAN"", ""score"": 80},
+    {""skill"": ""SAP-ERP"", ""score"": 20},
+    {""skill"": ""Project Engineering"", ""score"": 80},
+    {""skill"": ""Interpersonal Skills"", ""score"": 80},
+    {""skill"": ""English Fluency"", ""score"": 80},
+    {""skill"": ""International Standards"", ""score"": 80},
+    {""skill"": ""Electrical Design"", ""score"": 100},
+    {""skill"": ""Project Management"", ""score"": 100}
+  ]
+}",none
+119,Electrical Engineering,"{
+  ""skills"": [
+    {
+      ""skill"": ""Electrical Machine"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Electrical wiring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solar power Plant Installation"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Maintenance of Solar power Plant"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Distribution Substation Installation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Transmission and Distribution Line Installation"",
+      ""score"": 80
+    }
+  ]
+}",none
+120,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    }
+  ]
+}",none
+121,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CSS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HTML"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""RESTful Web Services"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""JSON"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Unix"",
+      ""score"": 40
+    },
+    {
+      ""skill"": ""Mongodb"",
+      ""score"": 40
+    },
+    {
+      ""skill"": ""Version Control"",
+      ""score"": 40
+    },
+    {
+      ""skill"": ""Agile"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Scrum"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Web Services (REST)"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Github"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Jira"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""SQLAlchemy"",
+      ""score"": 40
+    },
+    {
+      ""skill"": ""Urllib"",
+      ""score"": 40
+    }
+  ]
+}",none
+122,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python development"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python - MongoDB"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python - MySql"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python Cache & Memoization"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python GIT"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python PWS (Pivotal Web Service - Cloud Foundry)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""M3/Movex ERP development"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""AS400 development of Movex/M3 ERP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Stream Server development of Movex/M3 ERP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""M3 Java of Movex/M3 ERP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""RPG/400"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DB2/400"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CL/400"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""SQL/400"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""German A1 Level"",
+      ""score"": 20
+    }
+  ]
+}",none
+123,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python Developer"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Computer Science"",
+      ""score"": 80
+    }
+  ]
+}",none
+124,Python Developer,"{
+  ""skills"": [
+    {""skill"": ""Python"", ""score"": 100},
+    {""skill"": ""Flask"", ""score"": 80},
+    {""skill"": ""Restful"", ""score"": 80},
+    {""skill"": ""Numpy"", ""score"": 20},
+    {""skill"": ""MongoDB"", ""score"": 100},
+    {""skill"": ""MySQL"", ""score"": 100},
+    {""skill"": ""AS/400"", ""score"": 100},
+    {""skill"": ""Java"", ""score"": 80},
+    {""skill"": ""Stream serve"", ""score"": 80}
+  ]
+}",none
+125,Python Developer,"{
+  ""skills"": [
+    {""skill"": ""Python"", ""score"": 80},
+    {""skill"": ""Tensorflow"", ""score"": 0},
+    {""skill"": ""Numpy"", ""score"": 0},
+    {""skill"": ""C"", ""score"": 0},
+    {""skill"": ""C++"", ""score"": 20},
+    {""skill"": ""MySQL"", ""score"": 20},
+    {""skill"": ""Ubuntu"", ""score"": 0},
+    {""skill"": ""Fedora"", ""score"": 0},
+    {""skill"": ""Cent OS"", ""score"": 0},
+    {""skill"": ""Windows"", ""score"": 0}
+  ]
+}",none
+126,Python Developer,"{
+	""skills"": [{
+			""skill"": ""Python Development (MongoDB/MySQL)"",
+			""score"": 100
+		},
+		{
+			""skill"": ""AS/400 development"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Stream Server development of Movex/M3 ERP"",
+			""score"": 100
+		},
+		{
+			""skill"": ""M3 Java of Movex/M3 ERP"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Python Flask"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Python Restful API development"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Python"",
+			""score"": 80
+		},
+		{
+			""skill"": ""MySQL"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Debugging and Testing based on Python and AS/400"",
+			""score"": 80
+		},
+		{
+			""skill"": ""German Language Proficiency (A1 Level)"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Agile Methodology"",
+			""score"": 80
+		},
+		{
+			""skill"": ""SDLC (Software Development Life Cycle)"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Communication skills"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Interpersonal skills"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Java"",
+			""score"": 20
+		},
+		{
+			""skill"": ""HTML, CSS"",
+			""score"": 20
+		}
+	]
+}",none
+127,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Programming"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Developing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HTML"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Python library"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Web scraping"",
+      ""score"": 80
+    }
+  ]
+}",none
+128,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Programming"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""mysql"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HTML"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Web scrapping"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python library (numpy, pandas, matplotlib, requests, beautiful soup)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""C"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Java"",
+      ""score"": 20
+    }
+  ]
+}",none
+129,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python development"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Frontend development (HTML)"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Python library (Numpy, Pandas, Matplotlib, Requests, Beautiful Soup)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Web scraping"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""C"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Java"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""GUI development (Tk, Java)"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""MS Excel"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""MS Office"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""MS Power Point"",
+      ""score"": 0
+    }
+  ]
+}",none
+130,Python Developer,"{
+	""skills"": [{
+			""skill"": ""Python scripting"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Programming"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Developing"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Frontend"",
+			""score"": 20
+		},
+		{
+			""skill"": ""HTML"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Python library"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Numpy"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Pandas"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Matplotlib"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Requests"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Beautiful Soup"",
+			""score"": 80
+		},
+		{
+			""skill"": ""MySQL"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Django"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Web scrapping"",
+			""score"": 80
+		}
+	]
+}",none
+131,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    }
+  ]
+}",none
+132,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Database"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""MYSQL"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""DJANGO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HTML5"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""REST API"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""OpenCV"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""PIL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Numpy"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Git"",
+      ""score"": 80
+    }
+  ]
+}",none
+133,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python development"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python - MongoDB"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python - MySql"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python Cache & Memoization"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python GIT"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python PWS (Pivotal Web Service - Cloud Foundry)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""M3/Movex ERP development"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""AS400 development of Movex/M3 ERP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Stream Server development of Movex/M3 ERP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""RPG/400, CL/400, ILE RPG, ILE CL, DB2/400, QUERY400 and SQL/400"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Flask"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Restful API"",
+      ""score"": 20
+    }
+  ]
+}",none
+134,Python Developer,"{
+   ""skills"":[
+      {
+         ""skill"":""Python"",
+         ""score"":80
+      },
+      {
+         ""skill"":""MongoDB"",
+         ""score"":80
+      },
+      {
+         ""skill"":""MySQL"",
+         ""score"":80
+      },
+      {
+         ""skill"":""AS/400"",
+         ""score"":100
+      },
+      {
+         ""skill"":""Java"",
+         ""score"":20
+      },
+      {
+         ""skill"":""Flask"",
+         ""score"":20
+      },
+      {
+         ""skill"":""Restful"",
+         ""score"":20
+      },
+      {
+         ""skill"":""Numpy"",
+         ""score"":20
+      },
+      {
+         ""skill"":""HTML"",
+         ""score"":20
+      },
+      {
+         ""skill"":""CSS"",
+         ""score"":20
+      }
+   ]
+}",none
+135,Python Developer,"{
+  ""skills"": [
+    {""skill"": ""Python Developer"", ""score"": 100}
+  ]
+}",none
+136,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    }
+  ]
+}",none
+137,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""MYSQL"",
+      ""score"": 20
+    }
+  ]
+}",none
+138,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""python scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""programming"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""python library"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""mysql"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""html"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""web scrapping"",
+      ""score"": 20
+    }
+  ]
+}",none
+139,Python Developer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Python"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Django"",
+      ""score"": 100
+    },
+    {
+      ""skills"": ""CSS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HTML"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MYSQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Web Services (REST)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""JSON"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Agile"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Scrum"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Github"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""JIRA"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Unix"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Mongodb"",
+      ""score"": 20
+    }
+  ]
+}",none
+140,DevOps Engineer,"{
+	""skills"": [{
+			""skill"": ""Dev-ops methodologies"",
+			""score"": 100
+		},
+		{
+			""skill"": ""GIT"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Bitbucket"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Jenkins"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Ansible"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Shell Scripting"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Requirement Gathering"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Continuous Integration and Continuous Deployment"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Software Development Life Cycle"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Software Testing Life Cycle"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Documentation & Reporting"",
+			""score"": 80
+		}
+	]
+}",none
+141,DevOps Engineer,"{
+	""skills"": [{
+			""skill"": ""Cloud Computing"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Shell Scripting"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Python"",
+			""score"": 20
+		},
+		{
+			""skill"": ""Automation"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Solution Architect"",
+			""score"": 20
+		},
+		{
+			""skill"": ""Azure"",
+			""score"": 20
+		},
+		{
+			""skill"": ""AWS"",
+			""score"": 80
+		},
+		{
+			""skill"": ""AWS EC2"",
+			""score"": 80
+		},
+		{
+			""skill"": ""RDS"",
+			""score"": 80
+		},
+		{
+			""skill"": ""CloudFormation Template"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Lambda"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Dynamo DB"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Cloud Watch"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Auto-scaling"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Elastic Bean stalk"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Appdynamics"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Linux/Unix"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Puppet"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Redhat Satellite server"",
+			""score"": 80
+		},
+		{
+			""skill"": ""mysql database"",
+			""score"": 80
+		},
+		{
+			""skill"": ""HTML"",
+			""score"": 20
+		},
+		{
+			""skill"": ""System Engineering"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Mysql / Oracle / SQL Support"",
+			""score"": 80
+		}
+	]
+}",none
+142,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DevOps"",
+      ""score"": 80
+    }
+  ]
+}",none
+143,DevOps Engineer,"{
+    ""skills"": [
+        {
+            ""skill"": ""Cloud Computing"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Shell Scripting"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Python"",
+            ""score"": 20
+        },
+        {
+            ""skill"": ""Automation"",
+            ""score"": 80
+        }
+    ]
+}",none
+144,DevOps Engineer,"{
+  ""skills"": [
+    {""skill"": ""AWS"", ""score"": 80},
+    {""skill"": ""Python"", ""score"": 80},
+    {""skill"": ""DevOps"", ""score"": 80},
+    {""skill"": ""C"", ""score"": 20},
+    {""skill"": ""C++"", ""score"": 20},
+    {""skill"": ""Sql"", ""score"": 20},
+    {""skill"": ""Pl/Sql"", ""score"": 20},
+    {""skill"": ""Core Java"", ""score"": 20},
+    {""skill"": ""Javascript"", ""score"": 20},
+    {""skill"": ""HTML"", ""score"": 20},
+    {""skill"": ""CSS"", ""score"": 20},
+    {""skill"": ""Jquery"", ""score"": 20},
+    {""skill"": ""JavaEE"", ""score"": 20},
+    {""skill"": ""Mysql"", ""score"": 20}
+  ]
+}",none
+145,DevOps Engineer,"{
+	""skills"": [
+		{""skill"": ""DevOps"", ""score"": 100},
+		{""skill"": ""GIT"", ""score"": 80},
+		{""skill"": ""Bitbucket"", ""score"": 80},
+		{""skill"": ""Jenkins"", ""score"": 80},
+		{""skill"": ""Maven"", ""score"": 80},
+		{""skill"": ""Ant"", ""score"": 80},
+		{""skill"": ""Linux"", ""score"": 80},
+		{""skill"": ""Ansible"", ""score"": 80},
+		{""skill"": ""Shell Scripting"", ""score"": 80},
+		{""skill"": ""Requirement Gathering"", ""score"": 80},
+		{""skill"": ""Continuous Integration and Continuous Deployment"", ""score"": 80},
+		{""skill"": ""Software Development Life Cycle"", ""score"": 80},
+		{""skill"": ""Software Testing Life Cycle"", ""score"": 80},
+		{""skill"": ""Documentation & Reporting"", ""score"": 80}
+	]
+}",none
+146,DevOps Engineer,"{
+    ""skills"": [
+        {
+            ""skill"": ""Data Base Design"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""PHP"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Python"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""MySQL"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""JavaScript"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""HTML"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Ajax"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""XML"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Agile Methodology"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""DevOps Methodology"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Scrum Framework"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""JIRA Tool"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""GIT"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Bitbucket"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Jquery"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""AngularJs"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Amazon MWS"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Bootstrap"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Laravel"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""Project Management"",
+            ""score"": 80
+        }
+    ]
+}",none
+147,DevOps Engineer,"{
+	""skills"": [
+		{""skill"": ""Ant"", ""score"": 80},
+		{""skill"": ""Maven"", ""score"": 80},
+		{""skill"": ""GIT"", ""score"": 80},
+		{""skill"": ""Bitbucket"", ""score"": 80},
+		{""skill"": ""Jenkins"", ""score"": 80},
+		{""skill"": ""Linux"", ""score"": 80},
+		{""skill"": ""Ansible"", ""score"": 80},
+		{""skill"": ""Shell Scripting"", ""score"": 80},
+		{""skill"": ""Requirement Gathering"", ""score"": 20},
+		{""skill"": ""Continuous Integration and Continuous Deployment"", ""score"": 80},
+		{""skill"": ""Software Development Life Cycle"", ""score"": 20},
+		{""skill"": ""Software Testing Life Cycle"", ""score"": 20},
+		{""skill"": ""Documentation & Reporting"", ""score"": 20}
+	]
+}",none
+148,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Cloud Computing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Shell Scripting"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Automation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solution Architect"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Azure"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    }
+  ]
+}",none
+149,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""AWS"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    }
+  ]
+}",none
+150,DevOps Engineer,"{
+  ""skills"": [
+    {""skill"": ""AWS"", ""score"": 80},
+    {""skill"": ""Python"", ""score"": 80}
+  ]
+}",none
+151,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""DevOps"",
+      ""score"": 80
+    }
+  ]
+}",none
+152,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Cloud Computing"",
+      ""score"": 90
+    },
+    {
+      ""skill"": ""Shell Scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Automation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solution Architect"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""Azure"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    }
+  ]
+}",none
+153,DevOps Engineer,"{
+	""skills"": [{
+			""skill"": ""Ant"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Maven"",
+			""score"": 80
+		},
+		{
+			""skill"": ""GIT"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Bitbucket"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Jenkins"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Ansible"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Shell Scripting"",
+			""score"": 80
+		}
+	]
+}",none
+154,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Cloud Computing"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Shell Scripting"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""Automation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solution Architect"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""Azure"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    }
+  ]
+}",none
+155,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Cloud Computing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Shell Scripting"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Automation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solution Architect"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Azure"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    }
+  ]
+}",none
+156,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    }
+  ]
+}",none
+157,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Cloud Computing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Shell Scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 0
+    },
+    {
+      ""skill"": ""Automation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solution Architect"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Azure"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    }
+  ]
+}",none
+158,DevOps Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""DevOps"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Git"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Documentation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Change Management"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Configuration Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Deployment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Jenkins"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Shell Scripting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maven"",
+      ""score"": 80
+    }
+  ]
+}",none
+159,DevOps Engineer,"{
+  ""skills"": [
+    {""skill"": ""Project / Program Management"", ""score"": 80},
+    {""skill"": ""Agile / Scrum Management"", ""score"": 80},
+    {""skill"": ""Risk / Client Management"", ""score"": 80},
+    {""skill"": ""Process Improvements"", ""score"": 80},
+    {""skill"": ""Proposals/RFE"", ""score"": 80},
+    {""skill"": ""Selenium"", ""score"": 80},
+    {""skill"": ""RALLY / IBM TD Platform"", ""score"": 80},
+    {""skill"": ""Python"", ""score"": 80},
+    {""skill"": ""DevOps / DevSecOps"", ""score"": 80},
+    {""skill"": ""SAFe - Agile Craft"", ""score"": 80},
+    {""skill"": ""Delivery / Test Management"", ""score"": 80},
+    {""skill"": ""Project / Program Finance"", ""score"": 80},
+    {""skill"": ""Profit Maximization"", ""score"": 80},
+    {""skill"": ""Internal / External Audits"", ""score"": 80},
+    {""skill"": ""Software Testing / Quality Assurance"", ""score"": 80},
+    {""skill"": ""Visual Basic 6.0"", ""score"": 80},
+    {""skill"": ""MS-SQL Server / Oracle 8/8i"", ""score"": 80},
+    {""skill"": ""Conformiq"", ""score"": 80},
+    {""skill"": ""HP QC / QTP"", ""score"": 80},
+    {""skill"": ""Crystal Report 8.5"", ""score"": 80},
+    {""skill"": ""English"", ""score"": 80},
+    {""skill"": ""Hindi"", ""score"": 80},
+    {""skill"": ""Marathi"", ""score"": 80},
+    {""skill"": ""Tulu"", ""score"": 80}
+  ]
+}",none
+160,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""CISCO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DHCP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DNS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""FTP"",
+      ""score"": 70
+    },
+    {
+      ""skill"": ""LAN"",
+      ""score"": 70
+    }
+  ]
+}",none
+161,Network Security Engineer,"{
+	""skills"": [{
+			""skill"": ""Firewall"",
+			""score"": 80
+		},
+		{
+			""skill"": ""VPN"",
+			""score"": 80
+		},
+		{
+			""skill"": ""VLAN"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Routing Protocols (RIP, OSPF, EIGRP)"",
+			""score"": 80
+		},
+		{
+			""skill"": ""NAT"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Access Control Lists (ACLs)"",
+			""score"": 80
+		},
+		{
+			""skill"": ""ASA Failovers"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Security Context"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Wireless LAN"",
+			""score"": 80
+		},
+		{
+			""skill"": ""IPSec"",
+			""score"": 80
+		},
+		{
+			""skill"": ""DHCP Snooping"",
+			""score"": 80
+		},
+		{
+			""skill"": ""DM-VPN"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Data Plane Security"",
+			""score"": 80
+		},
+		{
+			""skill"": ""LAN/WAN"",
+			""score"": 80
+		},
+		{
+			""skill"": ""IP Telephony"",
+			""score"": 80
+		},
+		{
+			""skill"": ""CCNA"",
+			""score"": 80
+		},
+		{
+			""skill"": ""CCNP"",
+			""score"": 80
+		}
+	]
+}",none
+162,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""CISCO"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""DHCP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DNS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""FTP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""LAN"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Windows Servers"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Active Directory"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Printers"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Backup Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Symantec Backup Exec"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Linux OS"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Tally ERP9"",
+      ""score"": 20
+    }
+  ]
+}",none
+163,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Experience in Implementing and troubleshooting network security solutions"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Planning and Implementation knowledge of multi vendor firewalls"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Familiarity with the latest hardware and network security technologies"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Excellent analytical and problem solving skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Skilled in analyzing and monitoring network security solutions"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Work Experience on multi client data center environments"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Configuration of F5 load balancers"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""SSL certificate updates"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""I-Rule"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Configuration of Cisco Routers"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Configuration of Cisco switches"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Working knowledge of Bluecoat Proxy"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Knowledge of ITIL"",
+      ""score"": 20
+    }
+  ]
+}",none
+164,Network Security Engineer,"{
+	""skills"": [{
+			""skill"": ""Cisco ASA"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Checkpoint firewall (GAIA, Splat)"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Firewall management tools: Cisco security management (CSM), Checkpoint Smart center, Panorama"",
+			""score"": 100
+		},
+		{
+			""skill"": ""F5 load balancer (LTM)"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Networking Hands on Cisco Router and Cisco Switches"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Security Management & Event Management: RSAEnvision 4.1"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Ticketing tools - BMC Remedy, Service-now"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Python"",
+			""score"": 20
+		},
+		{
+			""skill"": ""VB Scripting"",
+			""score"": 20
+		}
+	]
+}",none
+165,Network Security Engineer,"{
+  ""skills"": [
+    {""skill"": ""Network Security"", ""score"": 100},
+    {""skill"": ""Network Administration"", ""score"": 100},
+    {""skill"": ""Firewall and VPN Configuration"", ""score"": 100},
+    {""skill"": ""Routing and Switching"", ""score"": 100},
+    {""skill"": ""Analytical Skills"", ""score"": 80},
+    {""skill"": ""Troubleshooting"", ""score"": 80},
+    {""skill"": ""Maintenance of IT security related Equipment"", ""score"": 80},
+    {""skill"": ""VPN connectivity"", ""score"": 80},
+    {""skill"": ""Policy Changes and Configuration"", ""score"": 80},
+    {""skill"": ""Documentation"", ""score"": 20},
+    {""skill"": ""LAN Connectivity issues"", ""score"": 20},
+    {""skill"": ""Wi-Fi Devices"", ""score"": 20},
+    {""skill"": ""Inventory Management"", ""score"": 20}
+  ]
+}",none
+166,Network Security Engineer,"{
+    ""skills"": [
+        {
+            ""skill"": ""Cisco ASA"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Checkpoint firewall (GAIA, Splat)"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Firewall management tools: Cisco security management (CSM), Checkpoint Smart center, Panorama"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""F5 load balancer (LTM)"",
+            ""score"": 100
+        },
+        {
+            ""skill"": ""Cisco Router and Cisco Switches"",
+            ""score"": 80
+        },
+        {
+            ""skill"": ""RSAEnvision 4.1"",
+            ""score"": 80
+        }
+    ]
+}",none
+167,Network Security Engineer,"{
+  ""skills"": [
+    {""skill"": ""Network Security"", ""score"": 100},
+    {""skill"": ""Network Administration"", ""score"": 80},
+    {""skill"": ""Firewall and VPN Configuration"", ""score"": 100},
+    {""skill"": ""Routing and Switching"", ""score"": 80},
+    {""skill"": ""Troubleshooting"", ""score"": 80},
+    {""skill"": ""IT Security Equipment Maintenance"", ""score"": 80},
+    {""skill"": ""VPN Connectivity Management"", ""score"": 80},
+    {""skill"": ""Policy Change Implementation"", ""score"": 80},
+    {""skill"": ""URL Filtering & Security Policies Configuration"", ""score"": 80},
+    {""skill"": ""Monitoring Systems Management"", ""score"": 80},
+    {""skill"": ""WAN Connectivity Management"", ""score"": 80},
+    {""skill"": ""Site to Site (IPSEC) VPN Configuration"", ""score"": 80},
+    {""skill"": ""Inventory Management"", ""score"": 80},
+    {""skill"": ""LAN Connectivity Troubleshooting"", ""score"": 80}
+  ]
+}",none
+168,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""CCNA Routing & Switching"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CCNA Security"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CCNP Routing & Switching"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""CCNP Security"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""ASA Firewall Configuration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Access Control Lists (ACLs)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Telemetry (NTP, NetFlow, Logging)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""IP Security (IPsec)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""VLAN Configuration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Routing Protocols (RIP, EIGRP, OSPF, BGP)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DHCP Snooping"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Private VLAN"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""VLAN Hopping"",
+      ""score"": 80
+    }
+  ]
+}",none
+169,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Network Security"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Cisco ASA"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Cisco routing and switching"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Loadbalncing F5"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""VPN"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""LAN"",
+      ""score"": 20
+    }
+  ]
+}",none
+170,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""CISCO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DHCP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DNS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""FTP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""LAN"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Windows Server Administration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Active Directory"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DNS Server"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DHCP Server"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DHCP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Windows Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Printers Configuration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""User Account Management"",
+      ""score"": 80
+    }
+  ]
+}",none
+171,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""CISCO"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DHCP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DNS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""FTP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""LAN"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Windows Server Administration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Server Backup Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Configuration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Security"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Microsoft Outlook Configuration"",
+      ""score"": 20
+    }
+  ]
+}",none
+172,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Network Security"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Network Administration"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Firewall and VPN Configuration"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Routing and Switching"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Troubleshooting"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""IT Security"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Wi-Fi Devices"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Performance Monitoring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""VPN Connectivity"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Policy Implementation"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""URL Filtering"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Device Inventory Management"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""LAN Connectivity"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Reporting"",
+      ""score"": 80
+    }
+  ]
+}",none
+173,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Experience in Implementing and troubleshooting network security solutions"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Planning and Implementation knowledge of multi vendor firewalls (Cisco ASA, Checkpoint, Juniper/Netscreen, Fortinet, FWSM)"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Familiarity with the latest hardware and network security technologies"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Excellent analytical and problem solving skills"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Knowledge and Work experience on Firewall IOS Upgrade projects"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Configuration of F5 load balancers, SSL certificate updates, I-Rule, F5 upgrades"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Configuration of Cisco Routers and Switches"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Working knowledge of Bluecoat Proxy"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""ITIL knowledge"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Network Security Experience"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Checkpoint Experience"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Cisco Experience"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Cisco ASA Experience"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Cisco routing and switching Experience"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Load balancing F5 Experience"",
+      ""score"": 100
+    }
+  ]
+}",none
+174,Network Security Engineer,"{
+  ""skills"": [
+    {
+      ""skill"": ""Cisco Certified Network Associates (CCNA)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""IPv4 (Subnetting, Supernetting)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Basic configuration of Routing, Switching, Access lists, Network Address Translation (NAT), Virtual LANs (VLANs)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Cisco Certified Network Professional (CCNP-Routing, Switching & MPLS)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Routing-Configuration and concept of EIGRP, OSPF and BGP"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Switching-Virtual LANs (VLANs), spanning tree protocol (STP), queuing"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Cisco Certified Network Professional Security (ASA Module)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Firewall filtering technologies, ASA modes of deployment, ASA failover, Security context, Reputation based firewall, Identity firewall, Zone based firewall"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Troubleshoot firewall related incidents for customers"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solve technical problems relating to installing security solutions"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Analyze security requirements of network system"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Reviewed configuration and maintained Cisco ASA Firewalls, routers, and switches"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Reviewed and modified access control lists (ACLs) on network switching and routing equipment"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Participated in core network team to upgrade corporate network"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Maintained network security technologies and services"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Support for client in various networking issues"",
+      ""score"": 80
+    }
+  ]
+}",none
+175,Network Security Engineer,"{
+	""skills"": [{
+			""skill"": ""Implementing and troubleshooting network security solutions"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Planning and Implementation knowledge of multi vendor firewalls (Cisco ASA, Checkpoint, Juniper/Netscreen, Fortinet, FWSM)"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Analytical and problem solving skills"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Analyzing and monitoring network security solutions using a variety of Monitoring solutions (Zenoss, Solarwinds, Cisco Prime)"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Work Experience on multi client data center environments"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Knowledge and Work experience on Firewall IOS Upgrade projects"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Configuration of F5 load balancers, SSL certificate updates, I-Rule, F5 upgrades"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Configuration of Cisco Routers and Switches"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Knowledge of Bluecoat Proxy"",
+			""score"": 80
+		}
+	]
+}",none
+176,Network Security Engineer,"{
+    ""skills"": [
+        {""skill"": ""Network Security"", ""score"": 100},
+        {""skill"": ""Network Administration"", ""score"": 100},
+        {""skill"": ""Firewall and VPN Configuration"", ""score"": 100},
+        {""skill"": ""Routing and Switching"", ""score"": 100},
+        {""skill"": ""Troubleshooting"", ""score"": 80},
+        {""skill"": ""Maintenance"", ""score"": 80},
+        {""skill"": ""VPN Connectivity Management"", ""score"": 80},
+        {""skill"": ""URL Filtering & Security Policies"", ""score"": 80},
+        {""skill"": ""LAN Connectivity"", ""score"": 80},
+        {""skill"": ""Inventory Management"", ""score"": 80}
+    ]
+}",none
+177,Network Security Engineer,"{
+   ""skills"":[
+      {
+         ""skill"":""Network Security"",
+         ""score"":100
+      },
+      {
+         ""skill"":""Network Administration"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Firewall and VPN Configuration"",
+         ""score"":100
+      },
+      {
+         ""skill"":""Routing and Switching"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Troubleshooting"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Diagnostics and maintenance of IT security related Equipment"",
+         ""score"":80
+      },
+      {
+         ""skill"":""Configuration of Site to Site (IPSEC) VPN"",
+         ""score"":80
+      },
+      {
+         ""skill"":""LAN Connectivity issues, Crimping, Rack Mounting"",
+         ""score"":20
+      },
+      {
+         ""skill"":""Analytical Skills"",
+         ""score"":80
+      }
+   ]
+}",none
+178,Network Security Engineer,"{
+	""skills"": [{
+		""skill"": ""Troubleshoot firewall related incidents for customers"",
+		""score"": 80
+	}, {
+		""skill"": ""Solve technical problems relating to installing security solutions"",
+		""score"": 80
+	}, {
+		""skill"": ""Analyze security requirements of network system"",
+		""score"": 80
+	}, {
+		""skill"": ""Review configuration and maintain Cisco ASA Firewalls, routers, and switches"",
+		""score"": 100
+	}, {
+		""skill"": ""Review and modify access control lists (ACLs) on network switching and routing equipment"",
+		""score"": 80
+	}, {
+		""skill"": ""Participate in core network team to upgrade corporate network"",
+		""score"": 80
+	}, {
+		""skill"": ""Maintain network security technologies and services"",
+		""score"": 80
+	}, {
+		""skill"": ""Interact with clients and analyze operational requirements"",
+		""score"": 80
+	}, {
+		""skill"": ""Install and configure IPSEC and SSL VPN"",
+		""score"": 100
+	}, {
+		""skill"": ""Review and configure VLAN, Routing Protocols (RIP, OSPF, EIGRP), NAT"",
+		""score"": 100
+	}, {
+		""skill"": ""Support client in various networking issues"",
+		""score"": 80
+	}]
+}",none
+179,Network Security Engineer,"{
+  ""skills"": [
+    {""skill"": ""Network Security Experience"", ""score"": 80},
+    {""skill"": ""Checkpoint Experience"", ""score"": 80},
+    {""skill"": ""Cisco Experience"", ""score"": 80},
+    {""skill"": ""Cisco ASA Experience"", ""score"": 80},
+    {""skill"": ""Cisco Routing and Switching Experience"", ""score"": 80},
+    {""skill"": ""Loadbalancing F5 Experience"", ""score"": 80},
+    {""skill"": ""Security"", ""score"": 20},
+    {""skill"": ""Cisco"", ""score"": 20},
+    {""skill"": ""VPN"", ""score"": 20},
+    {""skill"": ""LAN"", ""score"": 20},
+    {""skill"": ""Networking"", ""score"": 20}
+  ]
+}",none
+180,Blockchain,"{
+	""skills"": [{
+			""skill"": ""Blockchain Developer"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Bitcoin"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Ethereum"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Solidity"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Hyperledger"",
+			""score"": 80
+		},
+		{
+			""skill"": ""C Programming"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Nodejs"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Machine Learning"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Computer Networking"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Data Analytics"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Cloud Computing"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Reactjs"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Angular"",
+			""score"": 80
+		},
+		{
+			""skill"": ""Java"",
+			""score"": 80
+		}
+	]
+}",none
+181,Blockchain,"{
+	""skills"": [{
+			""skill"": ""Blockchain"",
+			""score"": 100
+		},
+		{
+			""skill"": ""Smart Contracts"",
+			""score"": 80
+		},
+		{
+			""skill"": ""DApps"",
+			""score"": 80
+		},
+		{
+			""skill"": ""MEAN Stack"",
+			""score"": 80
+		},
+		{
+			""skill"": ""API's"",
+			""score"": 80
+		}
+	]
+}",none
+182,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""Blockchain Development"", ""score"": 100},
+    {""skill"": ""Bitcoin"", ""score"": 80},
+    {""skill"": ""Ethereum"", ""score"": 80},
+    {""skill"": ""Solidity"", ""score"": 80},
+    {""skill"": ""Hyperledger"", ""score"": 80},
+    {""skill"": ""Computer Networking"", ""score"": 80},
+    {""skill"": ""Nodejs"", ""score"": 80},
+    {""skill"": ""C Programming"", ""score"": 80},
+    {""skill"": ""Java"", ""score"": 80},
+    {""skill"": ""Machine Learning"", ""score"": 80},
+    {""skill"": ""Data Analytics"", ""score"": 80},
+    {""skill"": ""Cloud Computing"", ""score"": 80},
+    {""skill"": ""Reactjs"", ""score"": 80},
+    {""skill"": ""Angular"", ""score"": 80},
+    {""skill"": ""Computer Vision"", ""score"": 80},
+    {""skill"": ""Brain Computer Interface"", ""score"": 80},
+    {""skill"": ""Smart India Hackthon"", ""score"": 80}
+  ]
+}",none
+183,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""MongoDB"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Smart Contracts"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solidity"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Nodejs"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Angular"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""React"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Ethereum"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Golang"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Docker"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Microservices"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Blockchain"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Protocol"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Consensus"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Problem Solving"",
+      ""score"": 20
+    }
+  ]
+}",none
+184,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""Blockchain Developer"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Apex"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CRM"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Database: Mysql"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Framework: Django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Blockchain"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""HTML5"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""CSS3"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Java"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Blockchain Website Designing"",
+      ""score"": 20
+    }
+  ]
+}",none
+185,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""Solidity"", ""score"": 100},
+    {""skill"": ""Smart Contracts"", ""score"": 100},
+    {""skill"": ""Ethereum"", ""score"": 100},
+    {""skill"": ""MongoDB"", ""score"": 80},
+    {""skill"": ""MySql"", ""score"": 80},
+    {""skill"": ""AWS"", ""score"": 80},
+    {""skill"": ""Node"", ""score"": 80},
+    {""skill"": ""Angular"", ""score"": 20},
+    {""skill"": ""React"", ""score"": 20},
+    {""skill"": ""Golang"", ""score"": 20},
+    {""skill"": ""Docker"", ""score"": 20},
+    {""skill"": ""Microservices"", ""score"": 20},
+    {""skill"": ""Blockchain"", ""score"": 20}
+  ]
+}",none
+186,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""C++"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""APEX"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CRM"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Blockchain"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Database: Mysql"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Framework: Django"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""HTML5"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""CSS3"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Java"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 20
+    }
+  ]
+}",none
+187,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""Ethereum"", ""score"": 80},
+    {""skill"": ""Smart Contracts"", ""score"": 80},
+    {""skill"": ""Solidity"", ""score"": 80},
+    {""skill"": ""Golang"", ""score"": 20},
+    {""skill"": ""Node"", ""score"": 20},
+    {""skill"": ""Angular"", ""score"": 20},
+    {""skill"": ""React"", ""score"": 20},
+    {""skill"": ""MongoDB"", ""score"": 80},
+    {""skill"": ""PostGresql"", ""score"": 20},
+    {""skill"": ""MySql"", ""score"": 80},
+    {""skill"": ""AWS"", ""score"": 80},
+    {""skill"": ""Docker"", ""score"": 20},
+    {""skill"": ""Microservices"", ""score"": 20},
+    {""skill"": ""Blockchain"", ""score"": 80},
+    {""skill"": ""Protocol"", ""score"": 20},
+    {""skill"": ""Consensus"", ""score"": 20},
+    {""skill"": ""Problem Solving"", ""score"": 80}
+  ]
+}",none
+188,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""JAVA"", ""score"": 80},
+    {""skill"": ""CSS"", ""score"": 20},
+    {""skill"": ""HTML"", ""score"": 20},
+    {""skill"": ""JAVASCRIPT"", ""score"": 20},
+    {""skill"": ""C++"", ""score"": 20},
+    {""skill"": ""Blockchain"", ""score"": 100},
+    {""skill"": ""Bitcoin"", ""score"": 80},
+    {""skill"": ""Ethereum"", ""score"": 80},
+    {""skill"": ""Ripple"", ""score"": 20},
+    {""skill"": ""Hyperledger Fabric"", ""score"": 20},
+    {""skill"": ""Node.js"", ""score"": 20},
+    {""skill"": ""React.js"", ""score"": 20},
+    {""skill"": ""Express.js"", ""score"": 20},
+    {""skill"": ""Solidity Language"", ""score"": 80},
+    {""skill"": ""Java Spring"", ""score"": 80}
+  ]
+}",none
+189,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""MongoDB"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Smart Contracts"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solidity"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""AWS"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Ethereum"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Problem Solving"",
+      ""score"": 20
+    }
+  ]
+}",none
+190,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""Blockchain (Bitcoin, Ethereum, Ripple, Hyperledger Fabric)"", ""score"": 100},
+    {""skill"": ""Blockchain: Private setup of blockchain, Node building"", ""score"": 80},
+    {""skill"": ""Smart Contract: Solidity Language"", ""score"": 80},
+    {""skill"": ""Smart Contract Api: Java Spring"", ""score"": 80},
+    {""skill"": ""Dapp Building: Node js, React js, Express js"", ""score"": 80},
+    {""skill"": ""JAVA"", ""score"": 80},
+    {""skill"": ""CSS"", ""score"": 20},
+    {""skill"": ""HTML"", ""score"": 20},
+    {""skill"": ""JAVASCRIPT"", ""score"": 20},
+    {""skill"": ""C++"", ""score"": 20},
+    {""skill"": ""SQL"", ""score"": 20}
+  ]
+}",none
+191,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""Blockchain"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Smart Contracts"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DApps"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MEAN Stack"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""API's"",
+      ""score"": 80
+    }
+  ]
+}",none
+192,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""MongoDB"", ""score"": 100},
+    {""skill"": ""Ethereum"", ""score"": 100},
+    {""skill"": ""Smart Contracts"", ""score"": 100},
+    {""skill"": ""Solidity"", ""score"": 100},
+    {""skill"": ""Golang"", ""score"": 0},
+    {""skill"": ""Node"", ""score"": 0},
+    {""skill"": ""Angular"", ""score"": 0},
+    {""skill"": ""React"", ""score"": 0},
+    {""skill"": ""MySQL"", ""score"": 80},
+    {""skill"": ""AWS"", ""score"": 80},
+    {""skill"": ""Docker"", ""score"": 0},
+    {""skill"": ""Microservices"", ""score"": 0},
+    {""skill"": ""Blockchain"", ""score"": 100},
+    {""skill"": ""Protocol"", ""score"": 0},
+    {""skill"": ""Consensus"", ""score"": 0}
+  ]
+}",none
+193,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""Blockchain Development"", ""score"": 100},
+    {""skill"": ""Networking"", ""score"": 80},
+    {""skill"": ""Data Analytics"", ""score"": 80},
+    {""skill"": ""Computer Vision"", ""score"": 80},
+    {""skill"": ""Java"", ""score"": 80},
+    {""skill"": ""Machine Learning"", ""score"": 80},
+    {""skill"": ""Brain Computer Interface"", ""score"": 100},
+    {""skill"": ""Computer Networking"", ""score"": 80},
+    {""skill"": ""Cloud Computing"", ""score"": 80}
+  ]
+}",none
+194,Blockchain,"{
+  ""skills"": [
+    {""skill"": ""Blockchain Development"", ""score"": 80},
+    {""skill"": ""Networking"", ""score"": 80},
+    {""skill"": ""Data Analytics"", ""score"": 80},
+    {""skill"": ""Computer Vision"", ""score"": 80},
+    {""skill"": ""Java"", ""score"": 80},
+    {""skill"": ""Machine Learning"", ""score"": 80},
+    {""skill"": ""Solidity"", ""score"": 20},
+    {""skill"": ""Hyperledger"", ""score"": 20},
+    {""skill"": ""Go"", ""score"": 20},
+    {""skill"": ""R3 Corda"", ""score"": 20},
+    {""skill"": ""Tendermint"", ""score"": 20},
+    {""skill"": ""Nodejs"", ""score"": 20},
+    {""skill"": ""C Programming"", ""score"": 20},
+    {""skill"": ""Cloud Computing"", ""score"": 20},
+    {""skill"": ""Reactjs"", ""score"": 20},
+    {""skill"": ""Angular"", ""score"": 20}
+  ]
+}",none
+195,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""Java"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CSS"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""HTML"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""JavaScript"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Blockchain (Bitcoin, Ethereum, Ripple, Hyperledger Fabric)"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Solidity Language"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Java Spring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Node js"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""React js"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Express js"",
+      ""score"": 20
+    }
+  ]
+}",none
+196,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""C"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Python"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Apex"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Visualforce"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MySQL"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Django"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Salesforce CRM"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Blockchain"",
+      ""score"": 80
+    }
+  ]
+}",none
+197,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""Java"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""CSS"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""HTML"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""JavaScript"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""C++"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Blockchain (Bitcoin, Ethereum, Ripple, Hyperledger Fabric)"",
+      ""score"": 100
+    },
+    {
+      ""skill"": ""Smart Contract"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Solidity Language"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Java Spring"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Node js"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""React js"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Express js"",
+      ""score"": 80
+    }
+  ]
+}",none
+198,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""Blockchain"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Smart Contracts"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""DApps"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""MEAN Stack"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""API's"",
+      ""score"": 80
+    }
+  ]
+}",none
+199,Blockchain,"{
+  ""skills"": [
+    {
+      ""skill"": ""Blockchain Development (Bitcoin, Ethereum, Solidity, Hyperledger)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Nodejs"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""C Programming"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Java"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Machine Learning (Specialized in Brain Computer Interface)"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Computer Networking and Server Admin"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Data Analytics"",
+      ""score"": 80
+    },
+    {
+      ""skill"": ""Cloud Computing"",
+      ""score"": 60
+    },
+    {
+      ""skill"": ""Reactjs"",
+      ""score"": 20
+    },
+    {
+      ""skill"": ""Angular"",
+      ""score"": 20
+    }
+  ]
+}",none
